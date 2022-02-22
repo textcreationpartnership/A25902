@@ -1,0 +1,1068 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The art of making love, or, Rules for the conduct of ladies and gallants in their amours</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 157 KB of XML-encoded text transcribed from 97 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25902</idno>
+            <idno type="STC">Wing A3792</idno>
+            <idno type="STC">ESTC R10426</idno>
+            <idno type="EEBO-CITATION">11991050</idno>
+            <idno type="OCLC">ocm 11991050</idno>
+            <idno type="VID">52028</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52028)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 557:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The art of making love, or, Rules for the conduct of ladies and gallants in their amours</title>
+               </titleStmt>
+               <extent>[13], 180 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Cotterel for Richard Tonson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>Frontispiece engraved.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love.</term>
+               <term>Courtship.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:52028:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of Cupid leading a man and a woman, with two more following.</figDesc>
+                  <head>THE ART OF MAKEING LOVE</head>
+               </figure>
+            </p>
+            <l>Love to this Temple all true louers leades</l>
+            <l>And all the Charmeing pathes w<hi rend="sup">th</hi> roſes ſpreads</l>
+            <l>Where they with Lawrells &amp; w<hi rend="sup">th</hi> Mirtles Crowned</l>
+            <l>Line always happy and renewned.</l>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:52028:1"/>
+            <p>The ART OF MAKING LOVE: OR, RULES FOR THE CONDUCT OF Ladies and Gallants In their AMOURS.</p>
+            <q>
+               <l>Non ſolùm faciem, mores quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, &amp; artes</l>
+               <l>Tautum Judicio, ne tuus ob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it Amor.</l>
+               <bibl>
+                  <hi>Ov.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Cotterel,</hi> for <hi>Richard Tonſon,</hi> at Grays-Inne-Gate in <hi>Grays-Inne-Lane.</hi> 1676.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:52028:2"/>
+            <pb facs="tcp:52028:2"/>
+            <head>TO MADAM <hi>F. K.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>HOw long will you ſuf<g ref="char:EOLhyphen"/>fer <hi>Love</hi> to weep? for having ſpent all his Darts againſt your Heart in vain, he confeſſes that he owes to the power of your conquering Eyes a thouſand Victories, yet he re<g ref="char:EOLhyphen"/>ceives no content from all theſe Conqueſts, ſince you (too too Obedurate Fair one) refuſe to grace his Triumph. Behold him at your feet attended by a thou<g ref="char:EOLhyphen"/>ſand Kings and Heroes in Chains, begging admittance into your little <hi>Family of Love;</hi> it is there
+<pb facs="tcp:52028:3"/>he deſires to eſtabliſh the Seat of a new Empire, and in your Heart to erect his Throne. Diſpute, Diſpute no longer, moſt charming Creature, but ſince Nature has been profuſe in giving you all the Graces of ind and Body, let Love give a finiſhing hand: with<g ref="char:EOLhyphen"/>out it your Eyes will looſe that all-diſſolving Sweetneſs which melts the moſt flinty Hearts, and your Vertue will be a little too ſe<g ref="char:EOLhyphen"/>vere; 'tis Love, Love onely, that gives the laſt perfection.</p>
+            <p>Take heed that Cruelty and Injuſtice doth not Tarniſh the luſtre of your excellent Quali<g ref="char:EOLhyphen"/>ties; but as your Eyes are the ſweeteſt in the world, ſo let your Heart be tender; and as your Vertue, Wit, and Beauty has gained you the Title of the <hi>Fair Saint,</hi> be not inexorable to the Vows of him who ſighs inceſ<g ref="char:EOLhyphen"/>ſantly for you, and languiſhes
+<pb facs="tcp:52028:3"/>under the Rigour of a long and cruel abſence; and by me pre<g ref="char:EOLhyphen"/>ſents you with theſe Verſes.</p>
+            <lg n="1">
+               <head>1.</head>
+               <l>Love ſits inthron'd in fair <hi>Aretia</hi>'s eyes,</l>
+               <l>Where he in Triumph raigns,</l>
+               <l>Secure of the Victories</l>
+               <l>Which he each hour obtains.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>His Slaves and Captives happy ſeem,</l>
+               <l>And kiſs the Chains they wear:</l>
+               <l>They wiſh not Freedom to redeem,</l>
+               <l>Nay, nothing more they fear.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>The poor <hi>Almedor</hi> onely lyes</l>
+               <l>Proſtrate with bleeding Heart,</l>
+               <l>Wounded by Darts ſhot from her Eyes,</l>
+               <l>Whilſt ſhe delays to cure the Smart.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>O Love! whoſe Empire is ſo vaſt,</l>
+               <l>If thou wou'dſt univerſal be,</l>
+               <l>To conquer fair <hi>Aretia</hi> haſt,</l>
+               <l>And wound her too, as deep as me.</l>
+            </lg>
+            <pb facs="tcp:52028:4"/>
+            <lg n="5">
+               <head>5.</head>
+               <l>Then from her Eyes remove thy Throne</l>
+               <l>INto her tender Heart,</l>
+               <l>Permitting ever me alone</l>
+               <l>To ſhare a little part.</l>
+            </lg>
+            <p>
+               <hi>Ah! Charmant fille, vivre ſans aimer neſt pas vivre, &amp; l'on vit ſeulment quand on aime.</hi>
+            </p>
+            <closer>
+               <salute>MADAM,</salute> 
+               <signed>Your Ladyſhips moſt Humble Servant</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:52028:4"/>
+            <head>TO THE READER.</head>
+            <p>A Vertuous and Reaonable Love is ſo rarely found, that I cannot wonder that it is confounded with Luſt; nor to finde ſo many ſharp Invectives against it, ſince we are apt to miſtake one for the other. The Author of <hi>Conjugi<g ref="char:EOLhyphen"/>um Conjurgium</hi> tells his Friend <hi>Philoginus,</hi> That Luſt is nothing elſe but what he calls <hi>Love;</hi> and that all thoſe Allurements of Beauty, Riches, Greatneſs, Appa<g ref="char:EOLhyphen"/>rel, and Deportment, Looks, Ge<g ref="char:EOLhyphen"/>ſtures, Diſcourſes, Familiarity, Toying, Fooling, Singing, Muſick, Dancing, <hi>&amp;c.</hi> tend onely to it, to
+<pb facs="tcp:52028:5"/>excite and ſatisfie it. I am ſor<g ref="char:EOLhyphen"/>ry his Friend ſhould be ſuch a Simpleton as to diſtinguiſh ſo ill between 'em: but indeed, I doubt he Author has charg'd a Folly up<g ref="char:EOLhyphen"/>on him, of which he was not guilty; for I do not finde that the young Gentleman had any ſuch Conceptions; and for any thing that I can learn, the Lady he was about to marry was a very Vertu<g ref="char:EOLhyphen"/>ous and a Modeſt Woman, and a paſſing good Houſwife; and then he has thrown away his good Ad<g ref="char:EOLhyphen"/>vice upon one who ſtood not in need of it, and ſhewn himſelf ve<g ref="char:EOLhyphen"/>ry extravagant in railing againſt Marriage in general, after be has ſaid in his Epiſtle, That there are few Marriages grounded on the immovable Rock of true Vertue; which implies, that 'tis not impro<g ref="char:EOLhyphen"/>bable, though not common, to find Love and Marriage built upon ſich Foundations: But he con<g ref="char:EOLhyphen"/>feſſes
+<pb facs="tcp:52028:5"/>himſelf to be <hi>Ictus Piſcator,</hi> a man who had a Drab to his Wife; therefore we may pardon his indignation against a Sex which hath ſo much diſobliged him, and yet hope not to be ſo ill treated.</p>
+            <p>'Tis Ingenuity to confeſs, that part of this Book is taken from the <hi>Gallant Morale</hi> of Monſieur <hi>Boulanger,</hi> which he dedicates to the young <hi>Dauphin:</hi> the Treatiſe is like a Gallant of his own Coun<g ref="char:EOLhyphen"/>try, clad with a great deal of ſuperfluous and ridiculous Gar<g ref="char:EOLhyphen"/>niture, ends and fragments of Poetry; which the Writer of this, hath ſtript him of, and hopes, though he hath made it leſs gaudy, he hath not render'd it leſs agreeable.</p>
+            <p>You are here taught the way to vanquiſh Illuſtrious Hearts, and to glorious Victories; and if you obſerve his Conduct, though you fail of ſucceſs, yet the Amarous
+<pb facs="tcp:52028:6"/>War will be leſs expenſive than profitable; and if you are forced to retreat, it will always be with honour: and as 'tis ſaid of thoſe Chymiſts who obſtinately purſue their ſearch for the Philoſophers Stone, though they never obain it, yet in their Progreſs they meet ſo many pleaſant and profitable Entertainments as recompences their Travel.</p>
+            <p>He permits you not to waſte your time in the purſuit of a Wanton, or thoſe fooliſh Creatures who are captivated by a Song of Monſenſe a la mode, with a ga<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y ſuit of Clothes, or the Charms of ſome other thing I muſt not name; the Sir <hi>Foplings</hi> may continue unrival'd; their Amours, ſince their Victories are not worth a Stratagem.</p>
+            <p>He gives you an Image of Love, as it ought to be, ſuch as is conſi<g ref="char:EOLhyphen"/>ſtent with Reaſon, and may be in<g ref="char:EOLhyphen"/>nocently
+<pb facs="tcp:52028:6"/>entertained in the hearts of the moſt Brave and Vertuous. He erects all his Altars, and pays all his Adorations to <hi>Venus Ura<g ref="char:EOLhyphen"/>nia;</hi> and all his Sacrifices are im<g ref="char:EOLhyphen"/>maculate, to which he permits none to approach, but with ſub<g ref="char:EOLhyphen"/>miſſions and reſpects; nor no Vows to be made, but what are pure and innocent, as that Divine Flame which animates her Ado<g ref="char:EOLhyphen"/>rers. 'Tis on this chast Goddeſs that Fortune waits, from whoſe hands a happy Lover receives a Crown compoſed of Laurels and of Myrtles: let not therefore the moſt innocent and vertuous Lady, or the greateſt Heroe bluſh, or diſ<g ref="char:EOLhyphen"/>dain to avow a Paſſion which con<g ref="char:EOLhyphen"/>ducts them to the Temple of Ho<g ref="char:EOLhyphen"/>nour: but that they may more certainly arrive there, let them ſtudy well the Precepts contained in this Book, and they then may be aſſured to be fortunate and happy.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:52028:7"/>
+            <p>LICENSED, <hi>April</hi> 17. 1676. <hi>Roger L'Eſtrange.</hi>
+            </p>
+            <p>There is lately publiſhed an Ingeni<g ref="char:EOLhyphen"/>ous Piece, Intituled <hi>The Courtiers Cal<g ref="char:EOLhyphen"/>ling:</hi> Shewing the ways of making a Fortune, and the Art of living at Court, According to the Maximes of Policy and Morality. By a Perſon of Honour. In 12<hi rend="sup">o</hi>. price bound 1 <hi>s.</hi> 6 <hi>d.</hi> Sold by <hi>Richard Tonſon,</hi> at Grays-Inne-Gate in <hi>Grays-Inne-Lane.</hi>
+            </p>
+            <p>
+               <hi>There are ſome Errata's in the Book, but the writer ſays he is too tazie to give you a Note of them.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52028:7"/>
+            <head>The ART of Making LOVE: OR, RULES For the Conduct of Ladies and Gallants in their Amours.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of the nature and power of Love.</head>
+               <p>VArious have been the Opinions concerning Love, that Paſſionate Love I mean, which is only found between perſons of a different Sex; and the miſtakes about it, have opened the mouths of ma<g ref="char:EOLhyphen"/>ny wiſe and religious men againſt it, who ſpeak of it as pernitious to Youth, born of Idleneſs and
+<pb n="2" facs="tcp:52028:8"/>Eaſe, and nouriſhed by Sloth and Luxury, as a Weed that grows up in youthful mindes which de<g ref="char:EOLhyphen"/>ſtroys the early ſeeds of Vertue, and hinder 'em in the purſute of glorious Actions; making no di<g ref="char:EOLhyphen"/>ſtinction between it and that bru<g ref="char:EOLhyphen"/>tiſh deſire w<hi rend="sup">ch</hi> we call Luſt; with this difference onely, that when our deſires are determin'd to this or that perſon, it is called Love; and when like a Flame driven with the Wind, to which it is compared, it rages every where, and knows no bounds, they give it that other name. From hence it is they abound with Precepts and Cautions to prevent the minds of Youth from being poy<g ref="char:EOLhyphen"/>ſon'd, as they term it, with this deſtructive Paſſion, forbid the reading of <hi>Romances,</hi> from whence they pretend young La<g ref="char:EOLhyphen"/>dies fancies are depraved and de<g ref="char:EOLhyphen"/>bauched, and diſpoſed with eaſe
+<pb n="3" facs="tcp:52028:8"/>to diſpence with Duty and Ho<g ref="char:EOLhyphen"/>nour, and all other conſiderati<g ref="char:EOLhyphen"/>ons, to follow the fortunes of a<g ref="char:EOLhyphen"/>ny ſpruce and impertinent fool, or deſperate ruffian.</p>
+               <p>I know not what Inſtances they can produce of theſe perni<g ref="char:EOLhyphen"/>tious conſequences, or how many examples in thoſe excellent Ro<g ref="char:EOLhyphen"/>mances, which are the common entertainment of the moſt ver<g ref="char:EOLhyphen"/>tuous Ladies: They have been writ as Images of Vertue, and as Repreſentations of the beauty and glory of a Life without ble<g ref="char:EOLhyphen"/>miſh: Honour, Generoſity, Cou<g ref="char:EOLhyphen"/>rage, and Fortitude, and all o<g ref="char:EOLhyphen"/>ther qualities, which render a perſon moſt amiable, are ſet off in the greateſt luſtre, to engage us to purſue the acquiſition of them, and to render hateful and deteſtable the contrary Vices, which are repreſented with all the deformity and deſtructive conſe<g ref="char:EOLhyphen"/>quences:
+<pb n="4" facs="tcp:52028:9"/>but it fills, ſay they, the minde with extravagant Viſi<g ref="char:EOLhyphen"/>ons, and imbues the Soul with a fooliſh enderneſs and pity, which makes 'em liable to become an eaſie Prey to any one, who by flattery and feigned ſubmiſſions, have the opportunity to inſinuate themſelves into their company. I anſwer, That there will always be a number of vain, fond, and indiſcreet perſons in the World; but how can that be aſcribed to the reading of thoſe Books, which the rather help them to diſcern into the little Arts and Practiſes of men and women to enſhare each other, acquaint 'em with all the Cajolings and coun<g ref="char:EOLhyphen"/>terfeit Vertues, and teach them to diſtinguiſh between the true and falſe crowning the conſtant Vertue, after it has taught him pa<g ref="char:EOLhyphen"/>tience and fortitude in the Tra<g ref="char:EOLhyphen"/>verſes of this life, and leading
+<pb n="5" facs="tcp:52028:9"/>the other to Infamy, Confuſion, and Diſgrace, the conſequences of all inglorious actions?</p>
+               <p>The greateſt enemies to Love are ſuch who are poſſeſs'd with contrary Paſſions: for an old rich Cormorant, when he finds his Son or his Daughter touched by this Paſſion, he ſtays not to exa<g ref="char:EOLhyphen"/>mine the Merit of the perſon; it is nothing to him whether he be Wiſe, Vertuous, and Valiant: If it croſs his deſignes of Ava<g ref="char:EOLhyphen"/>rice, he labours all he can to chaſe it from their breaſts, and to deſtroy the early Seed: He raves, and ſtorms, and thunders in his trembling Childrens ears, That Love is a Folly, Weakneſs, and Madneſs; and wants not ma<g ref="char:EOLhyphen"/>ny Examples of the deplorable effects, and ruinous conſequences of it; confounding a Paſſion full of Innocence, and grounded upon Vertue, with that of Luſt;
+<pb n="6" facs="tcp:52028:10"/>whoſe lawleſs Rage is the cauſe of all thee diſaſters, which he unjuſtly charges upon Love: Unjuſtly I ſay, for though that inordinate and irregular deſire which we call Luſt, oft proves calamitous, and the cauſe of ma<g ref="char:EOLhyphen"/>ny miſfortunes, involving ſome<g ref="char:EOLhyphen"/>times whole Families in bloud and infamy; yet without doubt Love, when 'tis grounded upon Reaſon, works far different Ef<g ref="char:EOLhyphen"/>fects, and is that which makes up the Felicity of thoſe in whoſe breaſts that Divine Flame finds entertainment. Of this Love I cannot ſay any thing too advan<g ref="char:EOLhyphen"/>tageous; it is the Soul of the Soul of the Soul, the very Source of all our laudable Paſſions; it makes us Generous, Brave, Civil, Liberal; it refines the Wit, and inflames to all worthy Actions. Theſe are the natural Effects, be<g ref="char:EOLhyphen"/>ing the means to obtain that
+<pb n="7" facs="tcp:52028:10"/>Charming Object which we love: It ſweetens the moſt Rough and Salvage Tempers, ſoftens the Heart, and renders milde and affable the moſt Barbarous Diſ<g ref="char:EOLhyphen"/>poſitions: Without it we have none of thoſe noble Sallies of the Soul, which excite to Hero<g ref="char:EOLhyphen"/>ique Actions, which make us ſur<g ref="char:EOLhyphen"/>mount the moſt difficult Obſtacles. Nothing is impoſſible to Love; it is fruitful in Miracles, and ren<g ref="char:EOLhyphen"/>ders all things eaſie to a Lover, whom at laſt vanquiſhes and tri<g ref="char:EOLhyphen"/>umps over all things; it inflames his deſires, excites his hopes, and gives Fire to all thoſe Paſſions which may advance its Empire.</p>
+               <p>Thoſe perſons whom I have mentioned being prepoſſeſs'd with a falſe Vertue, whereof they make an idol, look upon it as con<g ref="char:EOLhyphen"/>trary to Heroick Actions, and are ſo gravely ſcrupulous, as hat they will not ſuffer it to touch their
+<pb n="8" facs="tcp:52028:11"/>ears: They treat at it as a Chi<g ref="char:EOLhyphen"/>maera, and meer extravagance; and if any friend of theirs be<g ref="char:EOLhyphen"/>come inamoured, they always finde ſomething to reproach him for; with ſo much blindneſs and precipitation do they cenſure what deſerves true Elogies, ſtop<g ref="char:EOLhyphen"/>ping their ears to all juſtification. But what is the reaſon of this, but the want of reflection on the means to render it reaſona<g ref="char:EOLhyphen"/>ble? for they regard it as a blinde Fury in its greateſt vio<g ref="char:EOLhyphen"/>lence, and as a Torrent when it is moſt rapid, without conſider<g ref="char:EOLhyphen"/>ing that the greateſt Fury in its birth, is but a light Paſſion; and that the Torrent which is moſt impetuous in its courſe, is but a Gut of Water in its Source. The ſame may be ſaid of Love, which in its birth is no other than a ligh emotion, which is excited in our Souls by the Charm of a
+<pb n="9" facs="tcp:52028:11"/>beautiful and pleaſing Object convey'd by the eyes to the heart. If we attack it in that Infant e<g ref="char:EOLhyphen"/>ſtate, we may eaſily vanquiſh it, and reduce it to terms of Rea<g ref="char:EOLhyphen"/>ſon: yet in this Combate we muſt regard it as a formidable enemy, and ſpare neither Force nor Stra<g ref="char:EOLhyphen"/>tagem.</p>
+               <p>Its power extends over the U<g ref="char:EOLhyphen"/>niverſe, and all our other Paſſions are led Captive by it. It diſ<g ref="char:EOLhyphen"/>arms our Fury, changes our Hate, and aſſumes an abſolute Empire over our Wills; which Empire is as univerſal as that of Death: No Nation, no Age nor Sex, but live under its Laws; and whilſt all other Empires have their bounds, Love knows not any. The greateſt profeſſors of ſevere Vertue, have not been wholly exempt from his imperious pow<g ref="char:EOLhyphen"/>er; he darts his irreſiſtible Ar<g ref="char:EOLhyphen"/>rows to their Hearts, and renders
+<pb n="10" facs="tcp:52028:12"/>them, one time or other, amo<g ref="char:EOLhyphen"/>rous, maugre all their ſtrivings; and on theſe Love ſeems to take its greateſt vengeance, becauſe of their reſiſtance.</p>
+               <p>No Age can plead exemption from its Laws; for if you urge your Youth, Love will tell you, That he's a Boy, and yet has gi<g ref="char:EOLhyphen"/>ven his heart to his Dear <hi>Pſyohe;</hi> and if you demand other Exam<g ref="char:EOLhyphen"/>ples, he will let you ſee a thou<g ref="char:EOLhyphen"/>ſand, who in their Infancy have been taught to give obedience to its power.</p>
+               <p>If you plead Old age, and would excuſe your ſelves by that, he will ſhew you a thouſand a<g ref="char:EOLhyphen"/>morous Old men, who will tell you, That Old age is moſt proper for a reaſonable Love, &amp; who will ſay to you with a briſk and not ungallant Voice, <hi>In our Amours you diſcern nothing of the Coldneſs of Age: 'Tis in young hearts
+<pb n="11" facs="tcp:52028:12"/>that Love creates too great tran<g ref="char:EOLhyphen"/>ſports; when we love, our Years augment our Wiſdom, and ren<g ref="char:EOLhyphen"/>der us more ſubmiſſive, more diſcreet, ardent, and more con<g ref="char:EOLhyphen"/>ſtant.</hi>
+               </p>
+               <p>Thus we may ſee that Love exerciſes its Empire upon all men, of what Age and Condi<g ref="char:EOLhyphen"/>tion ſoever they be; ſo extenſive is its Empire, and ſo uncontro<g ref="char:EOLhyphen"/>lable is its Power.</p>
+               <p>This may admoniſh us how dif<g ref="char:EOLhyphen"/>ficult it is to ſubject it to our Rea<g ref="char:EOLhyphen"/>ſon. If we do not oppoſe its growth even in its birth, and uſe our greateſt efforts to regulate it, nothing is more ſubtile, crafty, and inſinuating, than Love; for its Addreſs is as great as its Force, and it hath the art to van<g ref="char:EOLhyphen"/>quiſh us by our own arms: for if we oppoſe our other Paſſions to it, which are the beſt Arms we have, Reaſon onely excepted, it
+<pb n="12" facs="tcp:52028:13"/>ſeizes upon them ſtraight by an admirable Dexterity, and turns them againſt our ſelves; and there is not one who in this Gombate willnot betray us, turn Re<g ref="char:EOLhyphen"/>negado, and range it ſelf on the part of Love whenſoever it plea<g ref="char:EOLhyphen"/>ſes. Thus it extends its Empire every where; it raigus in Hea<g ref="char:EOLhyphen"/>ven, and in all the Regions of the Air, Earth, and Sea; the Plants themſelves are ſenſible of its power, and, in ſhort, all things that are Mortal muſt be ſubject to Love and Death.</p>
+               <p>That which begets moſt Aſto<g ref="char:EOLhyphen"/>niſhment is, that Love has the power and addreſs to ſerve it ſelf with all our Paſſions, and to convert to the ſame uſe even things that are moſt contrary to it. It makes not onely uſe of our Deſires, but alſo even of A<g ref="char:EOLhyphen"/>verſion, and our flight from the Object loved, which are oppoſite
+<pb n="13" facs="tcp:52028:13"/>to it, for the ſame deſigne. It is in vain that we believe to van<g ref="char:EOLhyphen"/>quiſh Love, in flying the ſight of the Object which we finde ami<g ref="char:EOLhyphen"/>able in ſpight of us; and we had need well conſult our ſelves, be<g ref="char:EOLhyphen"/>fore we reſolve to deprive our eyes of the ſight of it, to the end to tear out the Picture that Love has graved in our heart.</p>
+               <p>That ſame Heart, which ſighs under its Tyranny, and which we deſire to infranchiſe, will tell you ſighing, that it will rather take part with Love than a<g ref="char:EOLhyphen"/>gainſt it; and that abſence will but onely increaſe its ſufferings, and enſlave it more. No, no, this flight will not cure the Amorous Wound: the Darts of Love ſtick in the Wounds of miſerable Lo<g ref="char:EOLhyphen"/>vers; and the more they chaſe, and the faſter they fly away, the Wounds become more mortal.</p>
+               <p>For that Paſſion which we
+<pb n="14" facs="tcp:52028:14"/>call Hope, it does not onely give aid to Love as the other, but it is even the Throne of Love, where it appears with moſt Pomp and Luſtre, from whence it ſhoots its moſt inevitable Darts. It is by this Paſſion it finiſhes the moſt glorious Enterprizes, and by which it preſerves its Conqueſts; it entirely captivates us to Love, and it is ſo fearful that we ſhould break its Chains, that it flatters us inceſſantly with a thouſand Sweets; and it is ſo ingenious in the important ſer<g ref="char:EOLhyphen"/>vices it renders to Love, that it flatters a Lover into the moſt groſs deceipts. This is the great Conſolation of miſerable Lovers, and even by its help alone they are encourag'd to ſuch a conſtant purſuit, as at laſt overcomes the moſt rebellious heart.</p>
+               <p>Deſpair alſo ranges it ſelf on the ſide of Love; for it is ſo ingeni<g ref="char:EOLhyphen"/>ous
+<pb n="15" facs="tcp:52028:14"/>and ſo malicious together, that it lets us ſee that we love in vain; and yet ſeduces us ſo crafti<g ref="char:EOLhyphen"/>ly with the Charms of a falſe Glory, and Spurs us on to a ridi<g ref="char:EOLhyphen"/>culous Generoſity, to think our ſelves happy to die for an inſen<g ref="char:EOLhyphen"/>ſible Ingrate, who laughs at us all the time of our Love and Death, yet in making this Reſolution we believe we merit a Crown.</p>
+               <p>Courage is no leſs of the party of Love; for Love firſt imprints this great Maxime in our Spirits, That the moſt fair, love always the moſt brave.</p>
+               <p>Fear, though it be contrary to Courage, yet it is no leſs of the party of Love, and is no leſs ſer<g ref="char:EOLhyphen"/>viceable to Love than it, when that Soveraign of the Paſſions or<g ref="char:EOLhyphen"/>dains it: and moſt Lovers con<g ref="char:EOLhyphen"/>feſs every day, that their fears are onely an exceſs of Love. Con<g ref="char:EOLhyphen"/>ſider theſe, timerous Lovers, when
+<pb n="16" facs="tcp:52028:15"/>they approach thoſe ſurprizing Beauties which charm them, they find themſelves ſpeechleſs, they ſigh, and almoſt ſound away, and dare not lift up their eyes, or open their mouths, to regard them, or to complain, nor even to ſigh; ſo much they are affraid to offend theſe viſible Divinities which they adore.</p>
+               <p>It is true, that Fear is ſo intire<g ref="char:EOLhyphen"/>ly ſubmitted to Love, that when it pleaſes, it begets that Paſſion in the heart of the greateſt Heroe; and he who has ſeen without the leaſt Conſternation the fall of Empires, has yet trembled at the preſence of her he adores.</p>
+               <p>Yet nevertheleſs this Fear is not of the kind of thoſe ſervile Fears, which make men tremble for themſelves: Fears ſo baſe, en<g ref="char:EOLhyphen"/>ter not into thoſe great hearts, they are onely for the Object loved, for whoſe ſakes they rea<g ref="char:EOLhyphen"/>dily
+<pb n="17" facs="tcp:52028:15"/>throw themſelves into the greateſt Perils.</p>
+               <p>It is this Paſſion that Love make uſe of to eſtabliſh its Em<g ref="char:EOLhyphen"/>pire: for perſwading theſe un<g ref="char:EOLhyphen"/>daunted Spirits, that the Object loved meaſures always the gran<g ref="char:EOLhyphen"/>deur of their Paſſions by that of the fear they ought to have for the ſafety of what they love; it makes them forget their own, and makes them tremble, maugre all their Courage, to teſtifie the exceſs of their Love, and to aug<g ref="char:EOLhyphen"/>ment by that, that of the perſon beloved.</p>
+               <p>It doth not onely make them forget their proper ſafety, but al<g ref="char:EOLhyphen"/>ſo the care of their Reputation in many occaſions, and makes them prefer the care to ſave the perſon beloved, to all other cares which regard their Honour. It was for this reaſon, that the great <hi>Pompey</hi> refuſed to combate <hi>Caeſar,</hi>
+                  <pb n="18" facs="tcp:52028:16"/>and at the expence of his Repu<g ref="char:EOLhyphen"/>tation he deferr'd a Battel, on which depended all his Fortune and all his Glory, till he had ren<g ref="char:EOLhyphen"/>der'd out of danger what he lo<g ref="char:EOLhyphen"/>ved above himſelf. It was at this time onely that <hi>Pompey</hi>'s courage abandon'd him, and fear made the Huſband of <hi>Cornelia</hi> tremble. 'Tis in the like occaſions that Love made us ſee the prodigious power that it hath over us, by that ingenious Addreſs that it hath to make uſe of our Paſſions againſt our ſelves: and certainly that Power and that Addreſs are equally admirable and charming, when they are the cauſe or the effect of a <hi>Reaſonable Love.</hi>
+               </p>
+               <p>Reſpect, which is a Species of that timerous Paſſion, and which may be call'd a Noble fear, con<g ref="char:EOLhyphen"/>firms all that I have ſaid. And it is by this that Love doth moſt ex<g ref="char:EOLhyphen"/>tend its Empire.</p>
+               <pb n="19" facs="tcp:52028:16"/>
+               <p>This Reſpect augments with Love, and with the fear we have for the perſon beloved. In ſhort, we ſee every day, that he who ſtrives not to pleaſe by Reſpect, and principally at Court, where Love is moſt reaſonable and moſt refined, never ſucceeds in his A<g ref="char:EOLhyphen"/>mours.</p>
+               <p>This Reſpect is the very Source of all Love's power, and it may be truely ſaid, that without it that Love is not capable to make thoſe glorious and difficult Con<g ref="char:EOLhyphen"/>queſts which it Atchieves.</p>
+               <p>It is that which we obſerve when Love attacks thoſe hearts whoſe ſcrupulous Vertue being ſenſible of their weakneſs, fears the ſight of thoſe Lovers which preſs them; for then theſe equal<g ref="char:EOLhyphen"/>ly ſevere and tender Souls finde themſelves in a very pitiful eſtate; ſometimes they fear to give ear to their Sighs, becauſe they finde
+<pb n="20" facs="tcp:52028:17"/>themſelvs too weak, without run<g ref="char:EOLhyphen"/>ning the riſque of engaging their hearts; and other times they are equally affraid to appear inhu<g ref="char:EOLhyphen"/>mane. If they refuſe to hearken to them, it is becauſe they believe that there is too much rigour in ſuch a Refuſal; yet at laſt they finde themſelves conſtrained to be pitiful, inſomuch that their hearts are engaged inſenſibly by that inquietude. As ſoon as they perceive they love that which they fear, their hearts complain of them, and making at once re<g ref="char:EOLhyphen"/>flection on what it ſuffers in this hard Combate, it cannot forbear ſighing. Love, which makes all theſe Attacks, is aſtoniſh'd with this reſiſtance, and may be would carry his Attempt no farther, if he did not ſerve himſelf of Reſpect; which he makes appear to the Attaqu'd heart in the eyes of her Lover, whoſe looks are ſo
+<pb n="21" facs="tcp:52028:17"/>animated with Love, that in a moment Reſpect triumphs over her heart, maugre all reſiſtance, and thus renders Love victorious.</p>
+               <p>See the true Picture of this Combate, and of this Victory, made by one of theſe fearful and ſcrupulous Ladies.</p>
+               <q>
+                  <l>I wou'd, and ſtraight I wou'd not! thus I roul</l>
+                  <l>Incertain thoughts in my unquiet Soul.</l>
+                  <l>To his Complaints and Sighs to ſtop my ears,</l>
+                  <l>Inhumane and too rigorous appears.</l>
+                  <l>When he his Love and Sufferings doth confeſs,</l>
+                  <l>My Heart doth melt with too much ten<g ref="char:EOLhyphen"/>derneſs:</l>
+                  <l>Then ſighing ſtraight I do my ſelf accuſe,</l>
+                  <l>Yet think't unjuſt my pity to refuſe.</l>
+                  <l>At laſt his Love joyn'd with a deep Re<g ref="char:EOLhyphen"/>ſpect,</l>
+                  <l>Betrays my Thoughts, and does my Heart ſubject.</l>
+               </q>
+               <p>It is ſo true, that the chief power of Love conſiſts in this Reſpect, that when a Lover be<g ref="char:EOLhyphen"/>haves
+<pb n="22" facs="tcp:52028:18"/>himſelf in a manner full of Reſpect before one of theſe fair ſevere ones, it ſeems to her-that ſuch a Lover intends with all her Enemies to betray her, and to vanquiſh her. So much does ſhe finde her ſelf attacked in all the places of her Heart: In that thought, and in that Aſſault, ſhe findes ſhe wants the force to re<g ref="char:EOLhyphen"/>ſiſt him; and ſhe abaſes her ſelf even to conjure this reſpectuous Lover, to affront and to provoke her hate; ſo much ſhe findes her ſelf preſſed by the violence of his Reſpect.</p>
+               <q>
+                  <lg>
+                     <l>Ah! <hi>Tircis</hi> ceaſe, ceaſe, I deſire,</l>
+                     <l>Do not againſt my Peace conſpire.</l>
+                     <l>Baniſh Reſpect, me Cruel call,</l>
+                     <l>Reproach, Affront, and ſtill againſt me rail,</l>
+                     <l>And ſay I'm proud, fantaſtical and vain:</l>
+                     <l>This ſoon will mitigate my pain.</l>
+                     <l>Then I ſhall yet be Miſtriſs of my Will,</l>
+                  </lg>
+                  <lg>
+                     <l>And able to reſiſt thee ſtill.</l>
+                     <l>Spare me the Shame and Bluſhes which will riſe</l>
+                  </lg>
+                  <lg>
+                     <l>Into my Face and Eyes,</l>
+                     <pb n="23" facs="tcp:52028:18"/>
+                     <l>When thou compelſt me to diſcloſe</l>
+                     <l>My Weakneſs, and my Troubles to expoſe;</l>
+                     <l>For when thou ſighſt, alas, I feel a ſmart,</l>
+                     <l>And Pity ſteals into my yielding Heart.</l>
+                  </lg>
+               </q>
+               <p>
+                  <hi>Fear</hi> does not onely beget Love, which makes uſe of it not onely to introduce it ſelf into a Heart, but alſo by its means Love eſtabliſhes it ſelf there, and ſe<g ref="char:EOLhyphen"/>cures it ſelf from being deſpoyl'd of the Fruit of its Victories.</p>
+               <p>It is by diſſembling this Fear, that a Lady who loves, and is un<g ref="char:EOLhyphen"/>willing to looſe her Servant, tells him trembling, That ſhe would not for all the world any ſhould know her tenderneſs for him. She careſſes him onely in ſecret, to the end he may eſteem her fa<g ref="char:EOLhyphen"/>vours greater. Thus ſhe awakens by this Fear and Circumſpection, which ſhe feigns, the Fires which elſe might die without it, becauſe that then that abuſed Lover ſets ſo much a greatervalue upon her Fa<g ref="char:EOLhyphen"/>vours
+<pb n="24" facs="tcp:52028:19"/>and Careſſes, as they coſt him more dear, and are given more rarely and in ſecret. This is moſt uſually practiſed by the ex<g ref="char:EOLhyphen"/>pert Miſs of the Town, who always paints an Image of Fear upon her Face, to increaſe the price of her Favours, which elſe might be neglected.</p>
+               <p>It is then certain, that the fear which ought to defend us againſt Love when it is not reaſonable, forſakes us as the other Paſſions, and flies over to the party of Love whenſoever it pleaſes.</p>
+               <p>
+                  <hi>Choler,</hi> which by reaſon of its tranſport ſeems moſt contrary to Love, fails not to accord with Love, and to take part againſt us when it pleaſes.</p>
+               <p>And certainly if Love be in<g ref="char:EOLhyphen"/>genious in managing all our other Paſſions againſt us, he ſhews an Art wholly admirable in the uſe of this. See how he works when
+<pb n="25" facs="tcp:52028:19"/>he ſees a Lover who believes him<g ref="char:EOLhyphen"/>ſelf betrayed by his Miſtriſs, and who with a juſt deſpite comes to reproach her Levity and In<g ref="char:EOLhyphen"/>conſtancy; he is ſo affraid that this Captive ſhould break his Chains, that he quickly has a re<g ref="char:EOLhyphen"/>courſe to Choler; he blows it in<g ref="char:EOLhyphen"/>to the heart of that fickle Miſtriſs, making her do all the extravagant Actions that Rage and Deſpair can inſpire into a Lady who loo<g ref="char:EOLhyphen"/>ſes all that ſhe loves. By this feign'd Choler he imprints ſo tender a pity in the heart of that abuſed Lover, that he becomes more amorous than ever: and if his Friends reproach him with his Weakneſs, he anſwers, That he cannot return her leſs than Love for the marks of a Love ſo great; &amp; exaggerates a thouſand furious actions that he hath ſeen this deſ<g ref="char:EOLhyphen"/>paring Lady do, by which he ſuf<g ref="char:EOLhyphen"/>fers himſelf to be entirely re<g ref="char:EOLhyphen"/>enſlaved
+<pb n="26" facs="tcp:52028:20"/>beyond redemption.</p>
+               <p>Behold how Love ſerves it ſelf of this Paſſion, to make us love even more violently than we e<g ref="char:EOLhyphen"/>ver did! for by theſe Quarrels which happen betwixt Lovers, Love re-enforces it ſelf; and there ſeems a new birth of it in the heart of him who accuſes, when the accuſed juſtifies her ſelf: for what diſorder ſoever Reproaches produce betwixt Lovers, the Criminal finds Pardon a ſweet Remedy, which is always atten<g ref="char:EOLhyphen"/>ded by ſome new Favours. In ſhort, there is nothing ſo raviſh<g ref="char:EOLhyphen"/>ing and ſo ſweet to a Lover, af<g ref="char:EOLhyphen"/>ter a tranſport of Choler againſt his Miſtriſs which he believes un<g ref="char:EOLhyphen"/>faithful, than to ſee her in pain to appeaſe him, and to give good reaſons to excuſe an imaginary offence, and to wipe her eyes with her fair hand, and to pay his unjuſt Tears by a thouſand freſh favours.</p>
+               <pb n="27" facs="tcp:52028:20"/>
+               <p>It onely remains that I ſpeak of <hi>Joy</hi> and <hi>Grief,</hi> to let you ſee that Love is abſolute Maſter of all our Paſſions when it pleaſes, I mean when we do not ſubject it to our Reaſon.</p>
+               <p>If we conſider that <hi>Joy</hi> is no other thing than the frui<g ref="char:EOLhyphen"/>tion of an agreeable Good, which renders the Soul content, and which interdicts the uſe of Deſire, as well as of Sorrow and Fear; it onely ſuffices to make us conceive the true Idaea of it, and to promiſe us the enjoyment, to engage us to whatſoever it pleaſes. This Love is not wanting in, and it knows ſo well how to repre<g ref="char:EOLhyphen"/>ſent that Idaea in ſo charming a manner, that it bewitches our eyes, and forgets not to tell us in making us ſee that agreeable I<g ref="char:EOLhyphen"/>mage of Pleaſure, that it is the end of all things; it fails not to ſhew us that it arreſts the vio<g ref="char:EOLhyphen"/>lence
+<pb n="28" facs="tcp:52028:21"/>of our Deſires, and con<g ref="char:EOLhyphen"/>ſtrains all our wandring Paſſions to taſte repoſe, which are not to be found but in it; that it ſwee<g ref="char:EOLhyphen"/>tens our Anger, and takes away the fierce Humour which accom<g ref="char:EOLhyphen"/>panies it; and that it is it ſelf the recompence of all thoſe long Travels which we ſuffer in its ac<g ref="char:EOLhyphen"/>queſt: that it chaſes away Fear, and baniſhes all thoſe vain Ter<g ref="char:EOLhyphen"/>rours which diſquiet our Souls: it baniſhes alſo Deſpair and Sor<g ref="char:EOLhyphen"/>row; and if it ſtill retain Tears and Sighs, it is as ſpoyls which publiſh its Victory, and which honour its Triumph. In ſhort, it lets you ſee that Pleaſure is all you wiſh, and all you want; and it promiſes you the enjoyment with ſo apparent certainty, that it is impoſſible not to render your ſelves, when it attacks you by its utmoſt power.</p>
+               <p>But though it does not finiſh
+<pb n="29" facs="tcp:52028:21"/>this Conqueſt onely by that Charming Idaea, yet ſince it knows how to expoſe it in ſo at<g ref="char:EOLhyphen"/>tractive a manner, that it is almoſt impoſſible not to be ſeduced, as ſoon as it repreſents to our eyes and fancies the ſole Image of the places where it makes us taſte theſe Delights.</p>
+               <p>It is by theſe Arts that Love conceals the true Torment in which it makes us languiſh when we take not the pains to render it reaſonable, which we ought to do before we permit it entrance into our Hearts; for if we do not, but ſuffer it to becom our Maſter by its fineſſes, it makes ſuch a ravage in our Souls, as no<g ref="char:EOLhyphen"/>thing in the World is in ſo deplo<g ref="char:EOLhyphen"/>rable a ſtate, as that to which it will reduce us. It is a certain truth, and whereof we cannot doubt, if we will believe thoſe who have fallen into its Nets; for
+<pb n="30" facs="tcp:52028:22"/>in recounting this pitiful Hiſtory, they will tell you in a very miſe<g ref="char:EOLhyphen"/>rable Tone:</p>
+               <q>
+                  <l>With Lightning and with Thunder ar<g ref="char:EOLhyphen"/>med,</l>
+                  <l>Love firſt my Senſe alarmed.</l>
+                  <l>He ſtraight a Victory did purſue,</l>
+                  <l>And did my feeble Will ſubdue.</l>
+                  <l>My Reaſon then after a weak diſpute</l>
+                  <l>Render'd my heart! Thus Love was abſo<g ref="char:EOLhyphen"/>lute.</l>
+                  <l>Then I beheld my breaſt</l>
+                  <l>In every part poſſeſt</l>
+                  <l>With torturing Fears,</l>
+                  <l>Anxieties and Cares;</l>
+                  <l>With lingring hopes and ſtrong deſires</l>
+                  <l>Which bur'd with raging Fires,</l>
+                  <l>With day and nights Inquietudes,</l>
+                  <l>And numerous broods</l>
+                  <l>Of vain Diſpleaſures, and of long Regrets</l>
+                  <l>Which hourly gnaw and fret</l>
+                  <l>My breaſt with Languors &amp; Impatiencies,</l>
+                  <l>With vain Diſtruſts, Deſpairs, and ſhort Deſpites,</l>
+                  <l>Which in my Soul tumultuouſly ariſe,</l>
+                  <l>And all my Reſt and Peace do ſacrifice.</l>
+                  <l>Thus doth Tyrannick Love my heart infeſt,</l>
+                  <l>And plunders it of all Repoſe and Reſt.</l>
+               </q>
+               <pb n="31" facs="tcp:52028:22"/>
+               <p>If we blame theſe unfortunate Gallants for being ſo ſeduced by this unregulated Paſſion, they quickly excuſe their Weakneſs, by the force and crafts of that agreeable Impoſture, and paint to you all the falſe Pleaſures which it promiſes.</p>
+               <p>As to the Paſſion of <hi>Sorrow,</hi> it is no leſs ſerviceable to Love in the finiſhing its Conqueſt; and what is moſt admirable, it makes uſe of this Paſſion in a hundred different manners for the ſame deſigne, that is to ſay, to ſubject us to him in deſpight of our ſelves and the aſſiſtance of our Reaſon.</p>
+               <p>When he ſees that a fair and inſenſible Lady will not admit him into her Heart, and that he hath put in practiſe unprofitably all his Wiles, he at laſt has re<g ref="char:EOLhyphen"/>courſe to this Paſſion, and from its aid obtains what he deſires.
+<pb n="32" facs="tcp:52028:23"/>He ſweetens the diſconſolate and deſpairing Lovers Sorrows, and perſwades him that Pity will at laſt vanquiſh his obdurate Mi<g ref="char:EOLhyphen"/>ſtriſs; by which means he makes him endure all his Sufferings with ſatisfaction, and purſue it through a million of Pains and Torments, which at laſt vanquiſh the Heart, which was thought invincible.</p>
+               <p>Yet though the Empire of Love be as vaſt as that of the World, and that all men without exception are his Subjects, and that by his Craft he renders him<g ref="char:EOLhyphen"/>ſelf Maſter of all our Paſſions; yet this is but a part of the Pow<g ref="char:EOLhyphen"/>er of this agreeable Tyrant; ſo many Stratagems he has to van<g ref="char:EOLhyphen"/>quiſh us: for there is one great Art more, by which love ſedu<g ref="char:EOLhyphen"/>ces us, that is, to diguiſe it ſelf un<g ref="char:EOLhyphen"/>der the maſk of Friendſhip, by which it ſurprizes and captivates us before we are aware.</p>
+               <pb n="33" facs="tcp:52028:23"/>
+               <p>For this Diſguiſe gives a free Acceſs; it ſhews it ſelf in a thou<g ref="char:EOLhyphen"/>ſand places where Love dares not appear, if it were known: And as there is no perſon who receives not joyfully this Friend<g ref="char:EOLhyphen"/>ſhip into their hearts, ſo there is no Heart prepared againſt the Ar<g ref="char:EOLhyphen"/>tifice of this diſguiſed Traytor. Behold the Deſcription of one of theſe Diſguiſements, and of one of the Conqueſts which Love made under the name of Friendſhip.</p>
+               <q>
+                  <l>Friendſhip and Love with their <hi>Parade</hi>
+                  </l>
+                  <l>Rambl'd one night in Maſquerade</l>
+                  <l>At <hi>Celin</hi>'s houſe, where at the Ball</l>
+                  <l>They did attract the eyes of all.</l>
+                  <l>Young, like a Damoſel brisk and trim,</l>
+                  <l>
+                     <hi>Friend ſhip</hi> appear'd, whilſt <hi>Love</hi> came in</l>
+                  <l>Dreſs'd like a humble Maid, all Modeſty,</l>
+                  <l>With bluſhing Cheeks, and down-caſt Eye.</l>
+                  <l>Charms, Joys, and Graces followed cloſely after</l>
+                  <l>With Cares, and Fears, mingled with Sports and Laughter.</l>
+                  <pb n="34" facs="tcp:52028:24"/>
+                  <l>The Maskers ſoon were by their Train be<g ref="char:EOLhyphen"/>tray'd;</l>
+                  <l>But which was <hi>Love,</hi> there ſtill a doubt was made.</l>
+                  <l>Friendſhip was rudely us'd in this Diſ<g ref="char:EOLhyphen"/>guiſe;</l>
+                  <l>Each timerous Nymph from her Acquain<g ref="char:EOLhyphen"/>tance flies.</l>
+                  <l>
+                     <hi>Chloris</hi> cri'd, Piſh, <hi>Celinda,</hi> come not near,</l>
+                  <l>And all her dangerous Company did fear.</l>
+                  <l>Love, with Succeſs far different, was crown'd;</l>
+                  <l>He was by every one encompaſs'd round.</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nder this Mask, their hearts he Cap<g ref="char:EOLhyphen"/>tive made,</l>
+                  <l>Who did too late diſcern they were be<g ref="char:EOLhyphen"/>tray'd.</l>
+               </q>
+               <p>There is one thing more which Love makes uſe of with ſucceſs, and that is Gold; for he ſees few perſons refuſe their Heart, when that rich Metal demands it. For this Reaſon it is ſaid, That Gold is the Vanquiſher of Women, and by conſequence all the Powers of the Earth, ſince the power of
+<pb n="35" facs="tcp:52028:24"/>that beautiful Sex hath not yet found limits in the whole extent of Nature.</p>
+               <p>In fine, there is nothing in the World which is not of the party of Love, and whereof he does not diſpoſe at his pleaſure, againſt thoſe who reiſt him: and by conſequence, there is no power ſo dreadful as his; for if we con<g ref="char:EOLhyphen"/>ſider his Empire, it is as large as the Univerſe; and if we regard his Subjects, we ſhall ſee amongſt them as many Kings and Heroes as in all the Earth; and if we make reflection upon all within and without us, we can ſpy no<g ref="char:EOLhyphen"/>thing that is not ready to aſſiſt Love in its Conquenſts. From hence we may ſee, that it is not eaſie to reduce Love to a ſub<g ref="char:EOLhyphen"/>miſſion to our Reaſon, to effect which, we ſtand in need to en<g ref="char:EOLhyphen"/>gage all our Force and Wit.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="36" facs="tcp:52028:25"/>
+               <head>
+                  <hi>CHAP. II.</hi> The means to ſubmit Love to Reaſon.</head>
+               <p>IF we would ſubject Love to Reaſon, we muſt ſurprize and arreſt it whilſt it is ſtill in our eyes, to the end that we may conſult our Reaſon before it go too far; and the better to know it, and to ſtay it in its paſſage, we muſt know how it makes its firſt entrance, and what it is we feel when it makes its nearer ac<g ref="char:EOLhyphen"/>ceſſes to the Heart; of which it will quickly become Maſter, if we be not as ſubtile as it, and prevent its progreſs.</p>
+               <p>When we obſerve ſomething rare, which we cannot expreſs in a beautiful perſon, we at pre<g ref="char:EOLhyphen"/>ſent regard it with attetion,
+<pb n="37" facs="tcp:52028:25"/>onely to content our curioſity. This is the firſt ſtage that Love makes, thence it glides into our Eyes with the charming <hi>Idaea.</hi> At the firſt view the Object ap<g ref="char:EOLhyphen"/>pears onely agreeable, and onely gives a ſimple deſire to know what it is: when we have learn'd this, our Curioſity augments, and deſiring to learn more, we care<g ref="char:EOLhyphen"/>fully ſeek the means to ſpeak to her, that we may ſee whether her Spirit and Converſation anſwers to her Beauty. Having tried her Wit, and gained ſome know<g ref="char:EOLhyphen"/>ledge of her humour, we begin to have a more than ordinary complaiſance for her: we feel a ſecret pleaſure when we ſee and ſpeak to her; which we do ſo oft, that it becomes ſo much a cuſtome, that we cannot quit her company without regret: When we part with her, we are penſive, and the Soul without
+<pb n="38" facs="tcp:52028:26"/>perceiving any thing flatters it ſelf by a thouſand amuſing and delightful thoughts. When we have dallied a few days with theſe thoughts, we begin to be ſenſible of ſomething without a name, which begins to trouble our repoſe: our ſleeps, which begin to be unquiet, repreſent a thouſand agreable Images, which beget many wiſhes even in our Dreams. 'Tis then we may con<g ref="char:EOLhyphen"/>clude that our Hearts are no longer our own, but are become Captives whilſt we thought them free.</p>
+               <p>See how Love glides into the Heart through the Eyes, and in what manner it acts to render it ſelf maſter, when it findes a per<g ref="char:EOLhyphen"/>ſon who makes little reſiſtance, and who does not diſpute its Triumphant Progreſs, by oppo<g ref="char:EOLhyphen"/>ſing all the forces of Reaſon to it. When we perceive our ſelves
+<pb n="39" facs="tcp:52028:26" rendition="simple:additions"/>moved by that firſt curioſity which faſtens our Eyes upon a beautiful Object, let our firſt thoughts be to diſtruſt our ſelves, and to hold for an undoubted principle, that there is nothing more cunning or inſinuating than that fair Sex; and that there is no kinde of Stratagem which they make not uſe of to make themſelves beloved, becauſe in that they place their greateſt glory.</p>
+               <p>With this diffidence we muſt examine with care all the draughts of that beauty which begins to charm us; and how extraordi<g ref="char:EOLhyphen"/>nary ſoever they are, let us not give an entire credit to our Eyes, but imagine that our Senſes may be deceivers; and to fortifie our ſelves in theſe thoughts, hold for a principle as certain, that there are no Beau<g ref="char:EOLhyphen"/>ties abſolutely perfect, or at leaſt
+<pb n="40" facs="tcp:52028:27"/>the number is very ſmall.</p>
+               <p>Let us not therefore preſently believe that what we ſee hath not ſo much beauty as ſhe ap<g ref="char:EOLhyphen"/>pears to have; let us always fan<g ref="char:EOLhyphen"/>cy that ſhe may have ſome con<g ref="char:EOLhyphen"/>cealed deformity, which will be too late for us to diſcover when once our Hearts are no longer in our own poſſeſſion; for when the Soul is poſſeſſed with that flagrant Paſſion, the ſick Fancy does ſo unite the ſcattered per<g ref="char:EOLhyphen"/>fections, that no imperfections can be viſible to an entangled <hi>Inamarato.</hi>
+               </p>
+               <p>We muſt not therefore ſuffer our ſelves to be dazled by theſe ſurprizing interviews, but pre<g ref="char:EOLhyphen"/>ſerve our ſelves free for ſome time; and not believe a Beauty all perfect, till we have viewed and examined all things at our leiſure.</p>
+               <p>Yet it is not enough that a
+<pb n="41" facs="tcp:52028:27" rendition="simple:additions"/>Woman be fair onely to merit our Love; for there is nothing ſo frail and changeable as Beauty, nor nothing ſo fading as its Charms: It is alſo neceſſary that the Beauty of the Minde and of the Soul accompany it, if we de<g ref="char:EOLhyphen"/>ſire our Loves ſhould be ſolid, and endure as long as our Lives.</p>
+               <p>When we finde a Beauty in all things perfect, in which the Sun it ſelf cannot diſcover the leaſt blemiſh; let us reflect that there is nothing ſo ſubject to a miſera<g ref="char:EOLhyphen"/>ble change as her Beauty: for nothing is ſo fading, or hath ſo many Enemies as its Charms. The Sun is its jealous Enemy, and the Fire deſtroys it: All things in Nature ſeem to conſpire the ru<g ref="char:EOLhyphen"/>ine of the faireſt things. This may teach us to make but ſmall account of the Beauty of the Body, if it be not accompanied by that of the Minde. Nature
+<pb n="42" facs="tcp:52028:28"/>wills, that Roſes ſhould endure but for a moment, and Thorns for ever. Hence it is that we ſee every day a thouſand Lovers who mock at thoſe proud Ladies who have onely the beauty of the body for their Portion; for when their Pride and Vanity ſwell ſo high, that they believe all men ought of duty to die for 'em, this unjuſt Rigour cauſes thoſe poor Idolaters to return to Rea<g ref="char:EOLhyphen"/>ſon; and then perceiving how little incenſe theſe fair Inhu<g ref="char:EOLhyphen"/>manes deſerve, there is not one who in his turn will not ſay in ſcorn,</p>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Imperious Beauty, take what care you will,</l>
+                  <l>Be ſcornful, and diſdainful ſtill;</l>
+                  <l>Your Beauty gone, I ſhall be free</l>
+                  <l>From this inglorious Slaverie.</l>
+               </lg>
+               <pb n="43" facs="tcp:52028:28"/>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>One ſcorching Feaver will deface</l>
+                  <l>Each beauteous Linament and Grace;</l>
+                  <l>And in that heat which ſets you all on fire,</l>
+                  <l>My ardent flames will ſoon expire.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>When once the Roſes from your Cheeks de<g ref="char:EOLhyphen"/>part,</l>
+                  <l>And Luſtre from your Eyes,</l>
+                  <l>I'll pluck the Thorns out of my Heart,</l>
+                  <l>And your paſs'd Charms deſpiſe.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>In time, that old Phyſitian Age</l>
+                  <l>My Torments will aſſwage,</l>
+                  <l>Who every day will play the Thief,</l>
+                  <l>And of your Beauty you bereave,</l>
+                  <l>Snatching you from the number of the Fair,</l>
+                  <l>And me at once from thoſe who wretched are.</l>
+               </lg>
+               <p>See how theſe proud ones are treated whilſt their Beauty flou<g ref="char:EOLhyphen"/>riſhes; but they are more outra<g ref="char:EOLhyphen"/>geouſly dealt with when Diſeaſes
+<pb n="44" facs="tcp:52028:29"/>or Wrinkles claps on a frightful and unmovable Vizard on their Faces, 'tis then the Gallants whom they ſcornfully uſed will revenge themſelves by a thouſand Scoffs, Reproaches, and Lampoons.</p>
+               <p>Thus Beauty changes, and with it all its fond Idolaters; we muſt not therefore ſuffer our ſelves to be captivated, though we finde a Beauty in perfection; but let us examine well whether the beauty of the Soul anſwer to that of her Body; for 'tis that alone which can entertain Love longeſt, and will render us the moſt happy. In ſhort, there is nothing more fading than thoſe Amorous ſweets which make the Paradiſe of Lovers, if they are not refin'd and ſpiritual; for if they be not, they are more proper for Beaſts than reaſonable Crea<g ref="char:EOLhyphen"/>tures.</p>
+               <p>We ought not therefore,
+<pb n="45" facs="tcp:52028:29" rendition="simple:additions"/>though we finde a perſon infi<g ref="char:EOLhyphen"/>nitely fair and charming, to ſuf<g ref="char:EOLhyphen"/>fer our ſelves to be enſnared by her, if ſhe be not as infinitely Witty: for Wit makes all the ſweets of a reaſonable life, and without it Love cannot render us happy, or at leaſt for any long time; for there is nothing can entertain us long but the Charms of the Minde, which are able to make it endure eternally.</p>
+               <p>Yet neither is it enough that we finde as much Wit as Beauty in her we begin to love; we muſt alſo learn whether the Soul have as fair qualities as the Spirit and the Bo<g ref="char:EOLhyphen"/>dy: for if an excellent and unſtai<g ref="char:EOLhyphen"/>ned Soul, repleniſhed with good<g ref="char:EOLhyphen"/>neſs, doth not accompany thoſe Charms, they ſerve onely to blinde us, and to lead us to Pre<g ref="char:EOLhyphen"/>cipices, where our ruine is inevi<g ref="char:EOLhyphen"/>table. In ſhort, there is nothing which is not fatal in a beautiful
+<pb n="46" facs="tcp:52028:30"/>Woman, if ſhe be vitious; and by conſequence, nothing which we ought more to deteſt: We muſt therefore make a ſwift re<g ref="char:EOLhyphen"/>treat upon the firſt appearances, leſt we be caught, and want the power to diſengage our ſelves from the inchantments of that fatal Beauty. Of this, that fa<g ref="char:EOLhyphen"/>mous <hi>Greek</hi> preſents us an exam<g ref="char:EOLhyphen"/>ple: And though there are few Ladies which are ſo dangerous as ſhe, yet there are few who are not Proud, Cruel, Ungrateful, Inconſtant, Weak, Vain, and Humorous, if they want Vertue, which onely regulates the Paſ<g ref="char:EOLhyphen"/>ſions, and makes Reaſon always govern in our Souls.</p>
+               <p>Theſe defects are not ſo eaſily diſcerned in a Woman as we be<g ref="char:EOLhyphen"/>lieve: for all thoſe fair ones have a million of Inventions and Artifices to conceal them; the principle of which arts is to
+<pb n="47" facs="tcp:52028:30"/>blinde us, by expoſing their fair<g ref="char:EOLhyphen"/>eſt qualities, and hiding with care their imperfections. Let us be vigilant in our ſearch, leſt we be deluded: for if we be once perſwaded by this ſubtile Art, Love is o longer in the Eyes, it lies already in the Heart, where it plays the Tyrant, and by a force ſo uncontroulable, that we have no longer power to make any reſiſtance.</p>
+               <p>A ſecond craft of theſe fair Deceivers is, that when they ſee that we do not diſcover the Hook which they conceal under their falſe Charms, and that we run after it, they play the cun<g ref="char:EOLhyphen"/>ning Anglers, feign to draw it away, to make us more greedy of the fatal Bait: for after they have given us the firſt ſtroke, they know how to augment our de<g ref="char:EOLhyphen"/>ſires by delays, little Coldneſſes, ſhort Divorces, Amorous Com<g ref="char:EOLhyphen"/>plants,
+<pb n="48" facs="tcp:52028:31"/>ſecret Reproaches, and counterfeit Angers.</p>
+               <p>There are ſome who exceed theſe in craft; they have the art to mingle ſo well ſweetneſs with ſeverity, that a poor Lover ſpends all his time in the vain purſuit of a Bliſs, which he onely taſtes in imagination, without ever be<g ref="char:EOLhyphen"/>ing weary of his fruitleſs travel. Sometimes they give him ardent deſires mixt with a few ſparks of hope; then ſtraight with one haughty look inſpire a fear ſo reſpectuous, that they ſee their Lo<g ref="char:EOLhyphen"/>vers at once in Ice and Fire; and becauſe they know that Love dies after it is enjoyed, they are ſo malitiouſly ingenious, that by little favours, whereof on ſuch occaſions they are not thrifty, they nouriſh the languiſhing di<g ref="char:EOLhyphen"/>ſtemper, and never eaſe or ſatiſ<g ref="char:EOLhyphen"/>fie it.</p>
+               <p>But amongſt the number of
+<pb n="49" facs="tcp:52028:31" rendition="simple:additions"/>theſe beautiful Decoyers of Hearts, none make ſo many Con<g ref="char:EOLhyphen"/>queſts as thoſe who diſſemble a falſe Devotion, and a counterfeit Vertue: This makes every day new Slaves, and oftentimes the moſt brave and Illuſtrious are Captivated by theſe fair diſſem<g ref="char:EOLhyphen"/>blers; for under that deceitful Mask, they ſeduce even the moſt reaſonable perſons.</p>
+               <p>As for thoſe who diſſemble by falſe appearances of Vertue, they have an univerſal art, able to ſe<g ref="char:EOLhyphen"/>duce all mankind. No <hi>Cameleon</hi> takes ſo many different forms, nor <hi>Protheus</hi> who aſſumes ſo many dif<g ref="char:EOLhyphen"/>ferent ſhapes, to allure an innocent heart, and a man of an eaſie belief as theſe diſſemblers. The very ſha<g ref="char:EOLhyphen"/>dow of a Vice offends her ſcrupu<g ref="char:EOLhyphen"/>lous modeſty; ſhe diſſembles an extream coldneſsfor all her Ser<g ref="char:EOLhyphen"/>vants; and feigning to neglect the making Conqueſts, ſhe flies
+<pb n="50" facs="tcp:52028:32"/>all places and entertainments of Love: and to render our deſires more vigorous and curious, ſhe expoſes her ſelf as little as ſhe can to view. She counterfeits always a modeſt air, and a ſober and pru<g ref="char:EOLhyphen"/>dent deportment, and ſeems to be ignorant in the uſe of her Charms: When an intoxicated Lover makes his addreſs to her, and is about making a declara<g ref="char:EOLhyphen"/>tion of love to her, ſhe impoſes ſilence on him, and for a while ſhe will by no means give any audience to him: This increa<g ref="char:EOLunhyphen"/>ſes his reſpect, and preſerves the dignity of the Throne of Love. She feigns to be as ignorant of his Language, as if he came from a forrain Nation; and under an innocent face, this crafty Miſtriſs ſhews her art by her ſeeming ſtupidity: and in ſhort, ſhe aſſumes the air and faſhions of a meer Novice, and counterfeits
+<pb n="51" facs="tcp:52028:32"/>ignorance of an art which is all her ſtudy.</p>
+               <p>Behold part of the Artifices of theſe falſe and pretending Vertues; they conceal all their Defects, by which, as I have ſaid, they endanger the wiſeſt per<g ref="char:EOLhyphen"/>ſons: but upon the leaſt appear<g ref="char:EOLhyphen"/>ance, or the leaſt conjecture that you have of their diſguiſements, fly them as much as you would do a Bed of Flowers full of Ser<g ref="char:EOLhyphen"/>pents: And the better to ſucceed in ſo wholeſome a deſigne, conſi<g ref="char:EOLhyphen"/>der of the danger that lies con<g ref="char:EOLhyphen"/>cealed under ſo much Artifice; and to fortifie you in this glori<g ref="char:EOLhyphen"/>ous Reſolution, be always per<g ref="char:EOLhyphen"/>ſwaded that theſe fair counter<g ref="char:EOLhyphen"/>feits will at leaſt but give you a falſe pleaſure; for to ſpeak with the Proverb, you will finde upon the credit of a long Experience, <hi>Que-le-jeu ne vaut pas la Chandel:</hi> Your Game is not worth your Candle.</p>
+               <pb n="52" facs="tcp:52028:33"/>
+               <p>There is not one Evil which theſe capricious Creatures make us not endure; and the ills they make us ſuffer are ſuch real ones, and ſo infinite in number, that there is ſcarce one of their Ser<g ref="char:EOLhyphen"/>vants who is not inceſſantly upon Racks and Tortures: for beſides all their other precious Qualities, they are ſo inſolent and humor<g ref="char:EOLhyphen"/>ſome, that they will not believe they are beloved, if the miſerable infatuated Wretches do not al<g ref="char:EOLhyphen"/>ways look pale and languiſhing, and three or four times a day at<g ref="char:EOLhyphen"/>tempt to Hang or Drown them<g ref="char:EOLhyphen"/>ſelves, or at leaſt perpetually tear their poor Hearts with <hi>Hey-Ho's,</hi> and if the very ſhadow of a ſuſpition doth not give them a thouſand Alarms: they will al<g ref="char:EOLhyphen"/>ways needs have 'um diſtruſtful and jealous without cauſe, ſigh without ceaſing, and never be content with them or with them<g ref="char:EOLhyphen"/>ſelves.
+<pb n="53" facs="tcp:52028:33"/>They carry their extra<g ref="char:EOLhyphen"/>vagancy yet farther; they never believe themſelves fair, except they waſh themſelves in the Tears of theſe unhappy men; and think they offend their falſe Ver<g ref="char:EOLhyphen"/>tue, if they are not cruel every moment. If you demand theſe miſerable Loves how they paſs their daies, there is not one who will not ſay, in an Accent that will make you pitty him,</p>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Nor Night or Day brings a relief,</l>
+                  <l>Or intermiſſion to my grief.</l>
+                  <l>Equally both are bateful grown;</l>
+                  <l>No eaſe I finde</l>
+                  <l>To my diſtracted minde,</l>
+                  <l>But careleſs ſtalk in ſolitude alone;</l>
+                  <l>No joyes I taſte, but Savage am become,</l>
+                  <l>And in a Wilderneſs of doubts I room,</l>
+                  <l>Tortured by fears which give me no re<g ref="char:EOLhyphen"/>poſe,</l>
+                  <l>Nor will permit my weary eyes to cloſe.</l>
+               </lg>
+               <pb n="54" facs="tcp:52028:34" rendition="simple:additions"/>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Baſe and inglorious is that Paſſion ſure,</l>
+                  <l>Which makes me tamely thus endure</l>
+                  <l>A thouſand baſe indignities,</l>
+                  <l>Whilſt I muſt think my ſelf oblig'd</l>
+                  <l>By her diſdain,</l>
+                  <l>And humbly thank her for the pain</l>
+                  <l>Which ſhe creates who doth my flame de<g ref="char:EOLhyphen"/>ſpiſe.</l>
+               </lg>
+               <p>But that which is more funeſt than all this miſerable life, is, that ſince Love transforms us as often<g ref="char:EOLhyphen"/>times into the perſon beloved; ſo he who is caught in the Toyls of a perſon capricious and un<g ref="char:EOLhyphen"/>faithful, will become like her un<g ref="char:EOLhyphen"/>faithful and humourſome; and ſo both the Lover and his Miſtriſs do nothing all their lives but tor<g ref="char:EOLhyphen"/>ment one another, and all their comfort is in doing injurys to each other, and in making reciprocal reproaches: This makes them the ſport and contempt of all that
+<pb n="55" facs="tcp:52028:34"/>know them; for in breaking publickly their Chains, they complain to all the World of the indignities they have endured, and curſe the fatal day in which with ſo little Glory they ſubmit<g ref="char:EOLhyphen"/>ted to ſuch feeble Charms, and to ſuch a diſhonourable Vaſſal<g ref="char:EOLhyphen"/>lage.</p>
+               <p>It is thus, that thoſe who a<g ref="char:EOLhyphen"/>bandon themſelves to Love with<g ref="char:EOLhyphen"/>out conſulting Reaſon, finde themſelves conſtrained to confeſs their blindneſs and errour with ſhame to all the World; and that they are fallen from thoſe hopes which they had too lightly and vainly conceived; and that they are weary with their long-ſuffer<g ref="char:EOLhyphen"/>ing: and there is nothing more ſhameful than for a man to be reduced to publiſh himſelf that he hath trifled away his time in the purſuit of a Woman without merit, and at laſt to be obliged
+<pb n="56" facs="tcp:52028:35" rendition="simple:additions"/>to to renounce the faith he has once given with a thouſand Oaths ne<g ref="char:EOLhyphen"/>ver to infringe.</p>
+               <p>For to what ſhameful extremi<g ref="char:EOLhyphen"/>ty muſt he be reduced, who to become free, muſt become guilty of a baſe crime? ſince there is none more great than the breach of that faith which we have ſo ſo<g ref="char:EOLhyphen"/>lemnly given.</p>
+               <p>It is therefore, as I have ſaid, not onely neceſſary to know whether they have Wit, but alſo to be aſſured that the beauty of the Soul is repleniſhed with good<g ref="char:EOLhyphen"/>neſs equal to that of the Body; and if you finde the leaſt defect in that, flie their preſence as you would a Monſter, and mock at that Beauty which is not atten<g ref="char:EOLhyphen"/>ded by Goodneſs and Vertue: and the more ſurprizing and charming theſe <hi>Syrens</hi> are, ſtand more upon your guard, and ſuf<g ref="char:EOLhyphen"/>fer not your ſelves to be van<g ref="char:EOLhyphen"/>quiſhed
+<pb n="57" facs="tcp:52028:35"/>by thoſe by whom it is a ſhame to be conquered.</p>
+               <p>Behold the dangerous conſe<g ref="char:EOLhyphen"/>quences of an imprudent Love, to oblige all thoſe who have Rea<g ref="char:EOLhyphen"/>ſon, to make uſe of it againſt its allurements: be not therefore wanting to conſult and to fol<g ref="char:EOLhyphen"/>low the Precepts I have given; and let it be done quickly, before Love has made its progreſs from the Eyes into the Heart; and let it not paſs ſo far, without the ſtricteſt ſcrutiny into the nature and quality of it: for when it is there, how well ſoever it be diſ<g ref="char:EOLhyphen"/>guiſed, it will be in vain to call Reaſon to your ſuccour: and if you ſhould attempt to turn out that turbulent Stranger, you will finde it as much in vain and ri<g ref="char:EOLhyphen"/>diculous, as if a <hi>Moor</hi> ſhould maſk his Face to avoid the raies of the Sun, which can do no in<g ref="char:EOLhyphen"/>jury to his ſooty complexion.</p>
+               <pb n="58" facs="tcp:52028:36"/>
+               <p>Follow then the Precepts which I have given: as ſoon as you are ſmitten by an extraordi<g ref="char:EOLhyphen"/>nary Beauty; examine at leiſure whether ſhe has not ſome concea<g ref="char:EOLhyphen"/>led Deformity. If you finde her perfect in Body and Minde after you have conſidered her a long time, and be well aſſured that they are not appearances; then you may believe that Reaſon per<g ref="char:EOLhyphen"/>mits you to love, and will take the Conduct of it; then you may ſubmit your ſelf without a<g ref="char:EOLhyphen"/>cting any thing againſt your Glo<g ref="char:EOLhyphen"/>ry, and may expect nothing but Happineſs from it; for that Love which is guided by Reaſon, is never followed by Sorrows or Regrets: Secrecy, Conſtancy, and Diſcretion, will attend your happy Flames; and though it be always vehement, yet it will al<g ref="char:EOLhyphen"/>ways act regularly, and without extravagance. Thus conſerving
+<pb n="59" facs="tcp:52028:36" rendition="simple:additions"/>your mutual Flames always in a juſt heat, you will be always hap<g ref="char:EOLhyphen"/>py, and always amorous, and you will never have reaſon to bluſh at ſo fair and laudable a Paſſion.</p>
+               <p>And though ſuch a Lover ſhould not be ſucceſsful in the Conqueſt of the Heart he does beſiege, yet ſuch a Vertuous La<g ref="char:EOLhyphen"/>dy is always juſt and reaſonable, and a Lover cannot be diſ-ſatis<g ref="char:EOLhyphen"/>fied: for behold what her Con<g ref="char:EOLhyphen"/>duct is; If ſhe grant nothing, ſhe permits a Lover to hope all things: all the Ills ſhe cauſes may be well endured, ſince ſhe pities them: her very Refuſals diſplea<g ref="char:EOLhyphen"/>ſes him not: ſhe is neither eaſie, nor too ſevere: ſhe nouriſhes both his Hope and Deſire, and knows the Secret to make her ſelf Miſtriſs of Souls: ſhe kin<g ref="char:EOLhyphen"/>dles the Fire, and feeds the Flame, but never ſuffers either the Fa<g ref="char:EOLhyphen"/>vours which ſhe beſtows, nor the
+<pb n="60" facs="tcp:52028:37"/>Ills ſhe makes him endure, to go to exceſs.</p>
+               <p>Thus a Reaſonable Lover is in perpetual repoſe; and in lieu of Complaints and, Reproaches, which other Lovers do conſtant<g ref="char:EOLhyphen"/>ly load their Miſtriſſes with, he on the contrary has nothing to return her but Thanks and Prai<g ref="char:EOLhyphen"/>ſes.</p>
+               <p>It is thus that Lovers who go<g ref="char:EOLhyphen"/>vern themſelves by Reaſon, taſte a thouſand Sweets in the way to a happy Iſland, where all their Deſires are crowned.</p>
+               <lg>
+                  <l>Love is an Iſland where all Pleaſures gnow,</l>
+                  <l>And Streams of Joy perpetually do flow:</l>
+                  <l>Princes and Peaſants equally do bend</l>
+                  <l>Their Courſes bither, where their Travels end.</l>
+                  <l>Eternal Spring doth crown the verdant Fields</l>
+                  <l>With Flowers, and every day new Plea<g ref="char:EOLhyphen"/>ſures yields.</l>
+                  <pb n="61" facs="tcp:52028:37"/>
+                  <l>Here no rude Storms the Bloſſoms-do-de<g ref="char:EOLhyphen"/>ſtroy,</l>
+                  <l>No Windes but Sighs, no Showers but Tears of Joy.</l>
+                  <l>The Skie in brighteſt Azure doth appear,</l>
+                  <l>And not one Cloud is ſeen through all the year.</l>
+                  <l>The amorous Birds flutter from tree to tree,</l>
+                  <l>And Love's the Subject of their Harmony.</l>
+                  <l>The Brooks with pleaſing murmurs do delude</l>
+                  <l>Our Thoughts, and render ſweet our ſo<g ref="char:EOLhyphen"/>litude.</l>
+                  <l>Each Grot, each Bower, and every Mirtle Grove</l>
+                  <l>In this fair Iſle, is conſecrate to Love.</l>
+                  <l>A happy Lover here doth feel no pain;</l>
+                  <l>He meets no rigour nor unjuſt diſdain.</l>
+                  <l>
+                     <hi>Celia</hi> is always kind, and always fair,</l>
+                  <l>And all her Sweets doth with <hi>Amyntas</hi> ſhare.</l>
+                  <l>All things to his content do here con<g ref="char:EOLhyphen"/>ſpire,</l>
+                  <l>No croſs event doth fruſtrate his deſire:</l>
+                  <l>But when all Storms are overblown and, paſt,</l>
+                  <l>A thouſand unknown Sweets he drinks at laſt.</l>
+               </lg>
+               <pb n="62" facs="tcp:52028:38" rendition="simple:additions"/>
+               <p>See the beauty of this Char<g ref="char:EOLhyphen"/>ming Iſland where all reaſonable Lovers are Crowned, where they taſte the Pleaſures which never finiſh but with their lives! And it is in this place that they ſee themſelves at the height of their Glory &amp; Felicity; and they know ſo certainly that this Glory and Felicity will endure eternally, by the knowledge that they mutu<g ref="char:EOLhyphen"/>ally have of their Vertues, that they defie without fear both Heaven and Earth ever to trou<g ref="char:EOLhyphen"/>ble it: alſo all their Words ſerve onely to expreſs that common joy, and that common aſſu<g ref="char:EOLhyphen"/>rance.</p>
+               <p>It is not without reaſon that ſuch Lovers boaſt of the eternal duration of their Love: for that Beauty of which they are reci<g ref="char:EOLhyphen"/>procally amorous, that is to ſay the beauty of the Soul and of the Minde, whoſe brightneſs receives
+<pb n="63" facs="tcp:52028:38"/>a new ſplendor from the Body, never changes; no Malady ever renders them diſpleaſing to each other: They are agreeable till death, and Death it ſelf receives a luſtre from their mutual Loves.</p>
+               <p>In effect, the death of theſe rare Beauties hath nothing hi<g ref="char:EOLhyphen"/>deous; one may take it rather for a ſweet Sleep, than for a true Death; one cannot call it Pale<g ref="char:EOLhyphen"/>neſs: what we ſee upon the Cheeks of theſe dying fair ones, it is rather ſuch a colour as we ſee in a clear Night, when the Sun retires his Raies: Their eyes become even then dangerous; the Fire burns even when it is about to be extinguiſhed; and as the Sun eclipſed ceaſes not to be dangerous and ill to our ſight, the ſame ma be ſaid of theſe dying Eyes, the Sparks which fall from them have both bright<g ref="char:EOLhyphen"/>neſs and heat; and I doubt not
+<pb n="64" facs="tcp:52028:39"/>but they will be able to kindle a Fire in a Heart into which any of them happens to fall.</p>
+               <p>By this one may judge of the power of theſe fair Eyes when they are in their greateſt luſtre and vigour, eſpecially when Wit and Virtue contribute to their Victories. It is thus then that theſe Fair ones attaque us, and which oblige us at the ſight of their victorious Arms to render our Hearts, if we would that our defeat be glorious, and our Chains worthy of us; and if we would arrive at that charm<g ref="char:EOLhyphen"/>ing Iſland of which I have ſpo<g ref="char:EOLhyphen"/>ken, in which Lovers taſte in<g ref="char:EOLhyphen"/>conceivable Pleaſures, and Joys of an eternal duration.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="65" facs="tcp:52028:39"/>
+               <head>
+                  <hi>CHAP. III.</hi> Of the qualities which a Lover ought to poſſeſs, to make him ca<g ref="char:EOLhyphen"/>pable to pleaſe, and to render himſelf beloved by his Mi<g ref="char:EOLhyphen"/>ſtriſs.</head>
+               <p>BEfore I ſpeak of the quali<g ref="char:EOLhyphen"/>ties which may render us amiable to theſe reaſonable fair ones, which onely deſerve to be truely beloved, it is neceſſary to know preciſely what Love is.</p>
+               <p>
+                  <hi>Love,</hi> to define it well, is a general alienation of the perſon who loves; it is a Tranſport without Contract, and without hope of return; by which we give our ſelves entirely, and with<g ref="char:EOLhyphen"/>out any reſerve, to the perſon beloved: It is a ſweet extaſie,
+<pb n="66" facs="tcp:52028:40"/>by which the Soul ceaſes to live in the Body which it animates, for to live in that which it loves. From hence it follows, that a per<g ref="char:EOLhyphen"/>ſon who loves paſſes into the per<g ref="char:EOLhyphen"/>ſon beloved, and aſſumes in his imagination, in his Minde, and in his Heart, a new and particular be<g ref="char:EOLhyphen"/>ing; which two Lovers mutually do, when Love is reciprocal: and thus, being united by Rea<g ref="char:EOLhyphen"/>ſon, they live in one another in<g ref="char:EOLhyphen"/>tellectually. This being ſo, it follows, that to become the moity of an Illuſtrious Heart, that is to ſay, to be beloved of a perſon of merit, it is neceſſary that our Heart be Illuſtrious alſo, and that we poſſeſs as much merit as that admirable perſon, other<g ref="char:EOLhyphen"/>wiſe theſe two Hearts can never make that charming Union which makes all the delights of mutual Love.</p>
+               <p>The firſt thing then that
+<pb n="67" facs="tcp:52028:40"/>we ought to do, is to love her by whom we deſire to be beloved again; for though by a prodigy ſhe may love us without ſeeing herſelf beloved, her Vertue will diſavow her Heart, and ſhe will diſapprove it as a crime the grea<g ref="char:EOLhyphen"/>teſt that can be committed: for it is a Maxime among all extraor<g ref="char:EOLhyphen"/>dinary perſons of that fair Sex, <hi>That Love onely is the reward of Love.</hi>
+               </p>
+               <p>But it is not enough that we love, but alſo that our Love be perfect: when you do this, you want not the principal means to vanquiſh her. This will give a ſoftneſs to all our Words, a lan<g ref="char:EOLhyphen"/>guiſhing ſweetneſs to our Eyes, which will not fail to gain credit with the moſt inexorable Beau<g ref="char:EOLhyphen"/>ty.</p>
+               <p>This Rule being certain, that there is nothing more neceſſary to make our ſelves beloved, than to
+<pb n="68" facs="tcp:52028:41"/>have Merit, and to love perfectly; it remains onely that I teach in what true Merit conſiſts.</p>
+               <p>Firſt, we ought to hold it for an undoubted Principle, that it lies in our own power to acquire this Merit; for if it be above our forces, thoſe which want it by reaſon of the want of power, cannot be diſdained without In<g ref="char:EOLhyphen"/>juſtice: and from hence it is eaſie to conclude, that Merit conſiſts not in the gifts of Fortune, be<g ref="char:EOLhyphen"/>cauſe Fortune it ſelf depends on Deſtiny, or to ſay better, of Chance; it follows onely its Decrees, and diſpences onely her Favours according to her own Capricious humour. It wants eyes to conſider the beauty of thoſe who implore her, and ears to hear the charming words of thoſe who employ them to invite her.</p>
+               <p>This true Merit therefore con<g ref="char:EOLhyphen"/>ſiſts
+<pb n="69" facs="tcp:52028:41"/>not in the goods of Fortune, ſince they are not in our power. This true Lovers know ſo well, that inſtead of ſearching after them, they demonſtrate a pub<g ref="char:EOLhyphen"/>lick and perpetual contempt of them; ad not onely ſo, but as ſoon as they love, they ſwear to quit all their Fortune for their Miſtriſs.</p>
+               <p>In ſhort, the Favours of that capricious Fortune were ſo little worthy of the eſteem of a man of Merit, that there are many who have rejected them from the number of Moral Goods: for Riches have no other value than what Opinion gives them: be<g ref="char:EOLhyphen"/>ſides, Merit hath this property, that it gives a Luſtre to him who poſſeſſes it, whereas Riches are never ſerviceable to him who hath the poſſeſſion, but are one<g ref="char:EOLhyphen"/>ly enjoyed at the point when he parts with them. By conſequence
+<pb n="70" facs="tcp:52028:42"/>Riches cannot make a Lover be beloved of theſe extraordinary perſons; for Merit ought to be ſomething within us, and which we have acquired our ſelves.</p>
+               <p>Birth has no greater advantage than Riches, in its pretenſions to true Merit: for, as I have ſaid, Merit depends on our Will, but on the contrary our Birth is the effect of Chance: a Coat of Arms, or the Grandeur of a Fami<g ref="char:EOLhyphen"/>ly, makes not Merit: and as Ea<g ref="char:EOLhyphen"/>gles are produced in Deſerts, Reptiles may be ingendred in Pa<g ref="char:EOLhyphen"/>laces; and whilſt the higheſt Mountains are curs'd with an eter<g ref="char:EOLhyphen"/>nal Barrenneſs, the fertile Valleys flouriſh with Palms and Cedars.</p>
+               <p>It is not then from our extracti<g ref="char:EOLhyphen"/>on that we derive our Merit: Our Illuſtrious Anceſtors contribute little beſides their Examples to make us vertuous; nay, we may become quite contrary to them
+<pb n="71" facs="tcp:52028:42"/>in our Inclinations and Lives. This is ſo true, that Love it ſelf treats Kings and Shepherds in the ſame manner. Yet think not that Love is the cauſe of any baſe Condeſcention; no, it is ſo far from that, it raiſes the leaſt per<g ref="char:EOLhyphen"/>fect, to equal the other. It is in this noble Deſigne that he makes the moſt perfect of theſe Lovers to ſpeak in this manner to them they love, to inflame them to the Acqueſt of thoſe Illuſtrious Qua<g ref="char:EOLhyphen"/>lities, that they may entertain and diſcover their Flame without blemiſhing their Glory.</p>
+               <lg>
+                  <l>Since Love comands, whoſe Power's a<g ref="char:EOLhyphen"/>bove controul,</l>
+                  <l>That both ſhould have one Thught, and both one Soul,</l>
+                  <l>Exalt thy Thoughts equal to mine,</l>
+                  <l>Which cannot without ſhame deſcend to thine:</l>
+                  <l>My Vertue then do thou embrace,</l>
+                  <l>It will the meanneſs of thy Birth efface.</l>
+               </lg>
+               <pb n="72" facs="tcp:52028:43"/>
+               <p>Thus Love by Merit equals two perſons of a birth ſo very much oppoſite, and unites them maugre all this oppoſition.</p>
+               <p>Behold how Love hath no re<g ref="char:EOLhyphen"/>gard to Birth! and as that Love whereof I ſpeak is cauſed and nouriſhed onely by true Merit, ſo I have made it appear that Merit conſiſts no more in high Extraction than in Riches.</p>
+               <p>There are ſome who ſet a va<g ref="char:EOLhyphen"/>lue upon nothing but Wit, and ſtoutly maintain, that in it alone true Merit doth conſiſt; but theſe abuſe themſelves as well as the other, and for the ſame rea<g ref="char:EOLhyphen"/>ſon: for we ſee ſo many perſons without Wit, and who yet deſire and pretend to have it, that it is evident that it depends no more of us than Birth or Riches, and conſequently does not make this true Merit. Some perſons we ſee, who ſcarce have a grain of
+<pb n="73" facs="tcp:52028:43"/>good ſence, whom we would judge have been made of the ve<g ref="char:EOLhyphen"/>ry dregs of Matter, and you would ſay there is not one ſpark of this Celeſtial fire in their Conſtitutions. There are other who are quite contrary to them, who ſeem to be formed of the pureſt extract of matter, whoſe Souls are ſo pure and ſo refin'd, that it hardly reflects all the bright Impreſſions it receives; all its motions are ſo juſt and re<g ref="char:EOLhyphen"/>gular, that it ſeems not flattery or extravagance to compare thoſe excellent Spirits to Stars and In<g ref="char:EOLhyphen"/>fluences: Yet this cannot, as I have ſaid, properly be called Me<g ref="char:EOLhyphen"/>rit, ſince it is not of our acqui<g ref="char:EOLhyphen"/>ſition.</p>
+               <p>Yet I deny not that Wit is ne<g ref="char:EOLhyphen"/>ceſſary to make us eſteemed; yet I maintain that it alone is not ſufficient, though we poſſeſs it in an infinite degree, to merit the
+<pb n="74" facs="tcp:52028:44"/>love of thoſe extraordinary per<g ref="char:EOLhyphen"/>ſons of whom I ſpeak. Nor is it enough for a Lady to be per<g ref="char:EOLhyphen"/>fectly fair, or infinitely witty, to oblige us to love her; for there is required beſides, Vertue, to eſtabliſh that mutual Love, which is the ſole end to which we muſt aſpire, as the onely Object of our Felicity.</p>
+               <p>It is then in Vertue alone that Merit doth properly conſiſt, and 'tis this alone which advances us above the rank of ordinary perſons, being the onely good which we can call our own, and which lies in our power to ac<g ref="char:EOLhyphen"/>quire. I do not mean that or<g ref="char:EOLhyphen"/>dinary Vertue which is found in common Souls; I mean that emi<g ref="char:EOLhyphen"/>nent Vertue which onely meets entertainment in great Mindes, &amp; which we call <hi>Heroick.</hi> This is that kinde of Vertue which I demand in a perſon, to render himſelf wor<g ref="char:EOLhyphen"/>thy
+<pb n="75" facs="tcp:52028:44"/>to be beloved, and capable to ſubject the moſt Illuſtrious Hearts.</p>
+               <p>It is neceſſary to explain what a Heroe is, and what I mean by Heroick Vertue. Many extrava<g ref="char:EOLhyphen"/>gant Wits have rendred very unjuſt Images of it, and repre<g ref="char:EOLhyphen"/>ſented it as a thing uppracticable, They are not contented with an Heroe who doth not things above Humane force, who beats not down Walls of Cities, and routs not whole Armies by his ſingle Valour. It is neceſſary to reform the wilde imaginations of theſe perſons, and to reduce them to juſt meaſures. 'Tis not the ſta<g ref="char:EOLhyphen"/>ture or the ſtrength of body which makes a Heroe; it is the vigour and firmneſs of the mind: for there may be Souls very eleva<g ref="char:EOLhyphen"/>ted in little Bodies, and extream<g ref="char:EOLhyphen"/>ly conſtant, and of extraor<g ref="char:EOLhyphen"/>dinary vigour, in an infirm and
+<pb n="76" facs="tcp:52028:45"/>delicate Body. Conſequently, all men are capable of this Heroick Vertue, and 'tis attainable by perſons of both Sexes, being e<g ref="char:EOLhyphen"/>qually capable of it. It is poſſeſſed in different degrees of eminence, according to the dignity of the Object, and the different powers of minde of thoſe who purſue the acquiſition of it.</p>
+               <p>The firſt cauſe of this Heroick Vertue, is the dignity of its Ob<g ref="char:EOLhyphen"/>ject, which is Glory; this being no other thing than the ſplendor of a good and vertuous life, and a recompence which Vertue ex<g ref="char:EOLhyphen"/>acts from the Mouths of all vertu<g ref="char:EOLhyphen"/>ous perſons, which maugre Death, makes us live even in the Tomb. This makes Glory the onely Rule, Commencement, and End of all the Enterprizes of great men, preferring it before all other things, and ſacrificing all things to it.</p>
+               <pb n="77" facs="tcp:52028:45"/>
+               <p>The ſecond cauſe of this He<g ref="char:EOLhyphen"/>roick Vertue, is the perfection of the faculties by which it acts, of which the Underſtanding and the Will, are as the Heart and Head.</p>
+               <p>The third is the nobleneſs of all the principal Functions which make us act with undaunted<g ref="char:EOLhyphen"/>neſs, and to ſuffer courageouſly and with conſtancie.</p>
+               <p>The fourth is an extraordinary tranſport of the Soul, by which it elevates it ſelf to Objects be<g ref="char:EOLhyphen"/>yond the common reach of men; and becauſe our forces are too weak of themſelves to reach thoſe high Objects, we are apt to believe ſomething of Divine in theſe extraordinary efforts which exalt Nature, which Tranſports we are forc'd to expreſs by the Words <hi>Flight</hi> and <hi>Rapture.</hi>
+               </p>
+               <p>Theſe Tranſports are divers, and of different kindes, accor<g ref="char:EOLhyphen"/>ding
+<pb n="78" facs="tcp:52028:46"/>to the faculties which are tranſported, and according to the difference of their Objects. If the Tranſport be onely of the Underſtanding and Imagi<g ref="char:EOLhyphen"/>nation, we conceive elevated Idaeas, and noble and pompous Images and Phantomes: and this is properly that inſpiration which the Ignorant call the Folly of Poets. This being eſteemed ſomething Divine, is the reaſon that Poetry, in which we finde theſe exalted Idaeas, hath been cal<g ref="char:EOLhyphen"/>led the Language of the Gods.</p>
+               <p>Thus you ſee the effects of this Tranſport when it is of the Imagination and Underſtanding; but when this Tranſport is uni<g ref="char:EOLhyphen"/>verſal, when the Underſtanding, and the Will, and all the facul<g ref="char:EOLhyphen"/>ties of the Soul, and functions of the Body, move with one com<g ref="char:EOLhyphen"/>mon effort, they all tend to that eminency which in this life is the
+<pb n="79" facs="tcp:52028:46"/>laſt bound of Vertue conſum<g ref="char:EOLhyphen"/>mate. This general Tranſport, which is a Tranſport of action, is the Divine perfectionw hich ever compleats a Heroe, and which the Poets and Philoſophers call <hi>Heroick Vertue.</hi>
+               </p>
+               <p>The fifth and laſt cauſe, which is the principle and Spring of Heroick Vertue, is Love. And for this reaſon it is alwaies made the ruling Paſſion of a Heroe, as that by which all other Vertues are purified, and from whence they receive their laſt perfection: from whence it follows, that to be a Heroe, it is neceſſary to be amorous; for Love, by refining the Soul, and ſpurring us on to glorious Actions, renders us a<g ref="char:EOLhyphen"/>miable, by the practiſe of all thoſe Vertues which lead to the Temple of Honour.</p>
+               <p>Hence you may ſee that this Vertue is not a Quality of Eaſe
+<pb n="80" facs="tcp:52028:47"/>and Sloth, nor a Habit for Oſten<g ref="char:EOLhyphen"/>tation, but of Travel and of Action; a Habit of Combate and of Victory: She uſually appea<g ref="char:EOLhyphen"/>red to the Ancients in Armour; her Palace ſeems built of the Ru<g ref="char:EOLhyphen"/>ines of Cities, Chains, Wrecks, and Thunder-bolots. It may be ſaid, that this painful Vertue is proper for Warriors, but not for Amorous perſons, who think they ought onely to combat with Re<g ref="char:EOLhyphen"/>ſpects and Submiſſions; but they are deceived, for there are no few<g ref="char:EOLhyphen"/>er Battels nor Victories to be per<g ref="char:EOLhyphen"/>formed in Love than War; and a Lover muſt be Valiant, as well as Amorous.</p>
+               <p>In ſhort, that true Merit which renders us worthy to be beloved by an Illuſtrious perſon, conſiſts onely in this Heroick Vertue: and indeed how ſhould it not conſiſt, ſince a vertuous Love is the ſource of all the Vertues themſelves,
+<pb n="81" facs="tcp:52028:47"/>and the ſpring of all Amiable Qualities? for when Love pro<g ref="char:EOLhyphen"/>poſes to it ſelf an honourable and legitimate end, and whoſe chaſt deſires are eloigned from Crime, the perſon whoſe Soul is poſſeſs'd with it, ſtrives to render it ſelf amiable, to the end to be belo<g ref="char:EOLhyphen"/>ved; and in order to that De<g ref="char:EOLhyphen"/>ſigne which this Noble Love in<g ref="char:EOLhyphen"/>ſpires, he endeavours to become Good, Generous, Sweet, Liberal, Civil, Wiſe, and Reſpectuous; he labours to acquire Knowledge, Addreſs, Diſcretion, and Polite<g ref="char:EOLhyphen"/>neſs: ſo that all that is perfect in the World, ſeems the effect of a Vertuous Love.</p>
+               <p>I ſhall take leave to make a ſhort reſearch into the nature and effects of each particular Quality neceſſary to a Lover. That which holds the firſt Rank in the eſteem of Ladies, is <hi>Valour:</hi> This Quality alone oft-times proves
+<pb n="82" facs="tcp:52028:48"/>ſufficient to ſubdue a Heart moſt difficult to be conquered; and few who will not avow their De<g ref="char:EOLhyphen"/>feat, and boaſt of the Honour and Glory, to ſee a Conquerour crowned with Laurels, be<g ref="char:EOLhyphen"/>come their Captive. What La<g ref="char:EOLhyphen"/>dy can chuſe but be pleaſed to ſee a valiant man return from the War crowned with Laurels, and proſtrating himſelf before her, a<g ref="char:EOLhyphen"/>ſcribe all his Victories to her Charms, and the noble Love ſhe kindled in his breaſt! and when he is in the Field of Battel, to hear Fame ſpeak loud of his At<g ref="char:EOLhyphen"/>chievements, it ſeems more glo<g ref="char:EOLhyphen"/>rious to 'em to have ſo valiant a Captive, than to be Miſtriſs of the World. But this is yet inferiour to thoſe Raviſhments which ſhe finds when this Heroe returns to ren<g ref="char:EOLhyphen"/>der her an account of his great Actions, and to attribute all the Glory to her. To a Merit ſo ex<g ref="char:EOLhyphen"/>traordinary,
+<pb n="83" facs="tcp:52028:48"/>what ſcrupulous He<g ref="char:EOLhyphen"/>roin will not yield her ſelf with joy? To be accounted handſome, juſt, and learned, and well-fa<g ref="char:EOLhyphen"/>voured, all this carries no dan<g ref="char:EOLhyphen"/>ger with it, ſays Sir <hi>Philip Sydney</hi> in his <hi>Valour Anotomized;</hi> but 'tis better to be admitted to the Title of <hi>Valiant Acts;</hi> for all Wo<g ref="char:EOLhyphen"/>men, ſays he, deſire to hold him faſt in their arms, who hath eſca<g ref="char:EOLhyphen"/>ped thither through many dan<g ref="char:EOLhyphen"/>gers.</p>
+               <p>As this Heroick Valour power<g ref="char:EOLhyphen"/>fully attracts a Lady's Heart, ſo Love ſeldom fails to give Cou<g ref="char:EOLhyphen"/>rage to his Slaves, to render them amiable. Love renders a Lover bold and daring in the purſuit of his Love. In ſhort, how can any make themſelves be loved, with<g ref="char:EOLhyphen"/>out this Military Vertue, of the greateſt part of Women? for if they are Idolaters of Glory, a Gallant cannot pretend to their
+<pb n="84" facs="tcp:52028:49"/>Hearts without that Vertue. If by juſt and legitimate Reaſons a Lady be ſtimulated to take Re<g ref="char:EOLhyphen"/>venge, how can he, without being capable to execute that Venge<g ref="char:EOLhyphen"/>ance, pretend to a Conqueſt of her Heart? And there are thoſe Women to whom Revenge is ſo ſweet, that there is no other means to Charm them. Some Women go farther; for we have ſeen even Queens, who not onely have given their Hearts, but e<g ref="char:EOLhyphen"/>ven their Crowns, to thoſe who have avenged them; ſo ingeni<g ref="char:EOLhyphen"/>ous is that Paſſion in a great Heart, when once it is poſſeſs'd of it. Yet let us not think that theſe fair ones are unjuſt in theſe kinde of Vengeances: for there are ſome Offences ſo cruel, as thoſe which wound the Honours of an Illu<g ref="char:EOLhyphen"/>ſtrious perſon, which are not re<g ref="char:EOLhyphen"/>paired, but by the death of thoſe who have committed them.
+<pb n="85" facs="tcp:52028:49"/>
+               </p>
+               <p>It is in theſe occaſions where that valour which I ſpeak of is moſt neceſſary; for he muſt be capable to dare all things, and to vanquiſh likewiſe; and a true Lover is never awanting to attempt all things.</p>
+               <p>But after all, it is neceſſary to know what this true Valour is, leſt we take the Shadow for the Subſtance: therefore I ſhall draw the picture of a Man truly Valiant.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> The Character of a Valiant Man.</head>
+               <p>THe truely Valiant man en<g ref="char:EOLhyphen"/>terprizes all things with<g ref="char:EOLhyphen"/>out temerity, and atchieves them without fear. He doth not ſeek out Dangers; but when he findes them, he teſtifies no leſs courage
+<pb n="86" facs="tcp:52028:50"/>in braving of them, than in ſuf<g ref="char:EOLhyphen"/>fering them: He faces Death in its moſt dreadful ſhape, without waxing pale. If he be conſtrai<g ref="char:EOLhyphen"/>ned to render himſelf to this common Enemy of Nature, he receives it and deſpiſes it toge<g ref="char:EOLhyphen"/>ther in his laſt breath. He ceaſes not to frame new deſignes: He prevents all ill ſucceſs before it arrive; and if a misfortune which he has not foreſeen creates in him any confuſion and fear, he patiently ſupports it. His Rea<g ref="char:EOLhyphen"/>ſon makes all his Paſſions his Slaves; it is his Maſter and di<g ref="char:EOLhyphen"/>recter in all things; and by that Victory which he meditates, he procures himſelf the Peace which he deſires. When he has any Quarrel, he conſiders not ſo much the ſtrength of his Arm, as his Cauſe; nor his Power ſo much as his Innocence, of which his Sword is the laſt of his proofs;
+<pb n="87" facs="tcp:52028:50" rendition="simple:additions"/>he takes it not in hand ſo much to attaque, as to defend: And though no other can uſe it with ſo much ſecurity, or manage it with ſo much grace, it is never ſeen naked till neceſſity draw it out of the Scabbard; and he chooſes that you ſhould ſee his Blood rather than his Back: he buys not his Life by ſhameful conditions: He exerciſes not ſo much his Courage as his Charity upon him he has vanquiſh'd. If he receives an injury of a man un<g ref="char:EOLhyphen"/>equal in ſtrength, he ſhews Com<g ref="char:EOLhyphen"/>paſſion and not Choler; he extin<g ref="char:EOLhyphen"/>guiſhes it, and will not take a poor revenge; inſomuch that it ſeems a doubt whether he more deteſts Cowardiſe or Cruelty: He ſpeaks not much, but boaſts leſs, always acting more with his Hands than with his Tongue: In all his reſolutions, Prudence is his guide; he is not troubled
+<pb n="88" facs="tcp:52028:51"/>with the apprehenſions of dan<g ref="char:EOLhyphen"/>ger of death; and if he be thrif<g ref="char:EOLhyphen"/>ty of his Blood, when Honour counſels him to manage it, he is prodigal of it: When Religion, his King, or his Country requires him to ſpend it, he changes not his Humour: When he changes his Condition, he has the ſame conſtant minde in all things; his Will rules his Power. The beſt revenge that he can exerciſe, is that which he exerciſes leaſt when 'tis in his choice; and as he knows how to command without Pride, ſo he knows how to obey without Murmuring; becauſe he regards himſelf as a<g ref="char:EOLhyphen"/>bove all accidents and hazards. Ignorance and Stupidity are not the principles of his Courage; but when he has well examined the Danger, he deſpiſes it, and teſtifies as little emotion when he is Ship-wrackt, as when he
+<pb n="89" facs="tcp:52028:51"/>embarques: He is indefatigable in all his Troubles; reſolute in his Enterprizes; entire in his Reſolutions; happy in all Suc<g ref="char:EOLhyphen"/>ceſs: and if he happen to be vanquiſhed, his Heart is always the moſt obſtinate, and the laſt which renders it ſelf.</p>
+               <p>See the Picture of a truely-valiant man: it is a Valour like to this, which I require in a Lo<g ref="char:EOLhyphen"/>ver, to be worthy to be beloved of theſe perfect Beauties of which I have ſpoken, to wit, of thoſe who are enamour'd onely of the Merit of their Lover. This is ſo true, that there is not one of theſe Illuſtrious Fair ones who love not to bear to the Tomb the name of ſo Valiant a Huſband, &amp; who places not more Glory in ſuch a glorious Title, than in any other. And it is impoſſible to all theſe Illuſtrious Lovers of Valour, to love any
+<pb n="90" facs="tcp:52028:52" rendition="simple:additions"/>after him they have once loved; and their firſt Love is always the laſt.</p>
+               <p>By this Picture of a Valiant man, which I have drawn, it is eaſie to ſee that Valour is a greatneſs of Courage, or a haugh<g ref="char:EOLhyphen"/>tineſs of Spirit, by which a Soul elevated above intereſt, carries it ſelf inviolably to a Duty which is laborious, and to Actions which appear moſt difficult. From whence follows, there are two kinds of Valour: When he does onely thoſe bold actions which even terrifie thoſe who hear 'em but related, this Vertue is called ſimply <hi>Valour;</hi> but when we act as a Duty what onely regards, our Honour, or that of her whom we Love, that is to ſay, when it is to ſacrifice all our Plea<g ref="char:EOLhyphen"/>ſures, our Intereſts, and even our Lives, to our Glory, and to make that the ſole end of all our
+<pb n="91" facs="tcp:52028:52"/>Actions; that Vertue is not one<g ref="char:EOLhyphen"/>ly Heroick, but Heroick to the higheſt degree. This is called <hi>Generoſity;</hi> and as that ſecond Species of Valour is infinitely a<g ref="char:EOLhyphen"/>bove the firſt, it is by conſe<g ref="char:EOLhyphen"/>quence more capable than it, to give us that extraordinary Merit which is ſo neceſſary to make us be loved by thoſe Illuſtrious Fair ones, of whom I have ſpoken.</p>
+               <p>To make the difference be<g ref="char:EOLhyphen"/>tween theſe two Vertues more eaſily comprehended, and to make known perfectly the Cha<g ref="char:EOLhyphen"/>racter of the one and the other, I will give you this Example fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <p>The Valiant <hi>Perſeus</hi> found <hi>An<g ref="char:EOLhyphen"/>dromeda</hi> chained to a Rock, and expoſed to a Monſter: That He<g ref="char:EOLhyphen"/>roe fought the Monſter, which ſeemed impoſſible to be over<g ref="char:EOLhyphen"/>come; he ſlew him, and deliver<g ref="char:EOLhyphen"/>ed the Nymph, whom he render'd
+<pb n="92" facs="tcp:52028:53"/>to her Parents. See here a bold Enterprize, which is of that firſt Species of Valour of which I have ſpoke, and that Verture which is ſimply called Valour.</p>
+               <p>But after that Heroick Action, <hi>Perſeus</hi> became infinitely amo<g ref="char:EOLhyphen"/>rous of that ſame Nymph: The King his Father, and the Gods themſelves, declared themſelves in his favour, and will'd that he ſhould marry her: Yet that great man, far from making advantage of his Credit and her Parents Authority, fell at her feet and proteſted, that he had rather die than to owe his happineſs to any other thing than onely to her Inclination; and left her entirely to her liberty to chuſe a Huſband, who was deſtined to him if ſhe had loved him, and that for re<g ref="char:EOLhyphen"/>compence of having ſaved her, and dying for love of her, he de<g ref="char:EOLhyphen"/>ſired no other Glory than to
+<pb n="93" facs="tcp:52028:53"/>render her happy. See here an Action of that laſt kind of Va<g ref="char:EOLhyphen"/>lour, which is infinitely above the firſt. It was by this high Ver<g ref="char:EOLhyphen"/>tue which is called <hi>Generoſity,</hi> by which he gained the heart of <hi>Andromeda,</hi> and that he chaſed away <hi>Phineus</hi> whom ſhe loved, and intended to marry the ſame day.</p>
+               <p>The Cowardize of <hi>Phineus</hi> excuſed her change, and ſet off the glory of that generous Lover by the oppoſition, from which ſhe conceived as juſt an Averſion to him, as ſhe was charmed by the Courage and Generoſity of the other.</p>
+               <p>Thus we may ſee what power this Generoſity has; not onely to conquer an Illuſtrious heart, but alſo to chaſe a Lovers Rival from thence. It is therefore ne<g ref="char:EOLhyphen"/>ceſſary that a Lover be generous, if he will legitimately pretend
+<pb n="94" facs="tcp:52028:54" rendition="simple:additions"/>to be loved by theſe Illuſtrious Women, who onely yield them<g ref="char:EOLhyphen"/>ſelves to true Merit. A Lover muſt onely conſider glory in his Love, and ſacrifice to it all his Intereſts and all his Pleaſure; for it is the character of a true Lo<g ref="char:EOLhyphen"/>ver, to be generous and diſintereſ<g ref="char:EOLhyphen"/>ſed: and ſuch a one will not only force the moſt inſenſible to love him, but even a Heart that is moſt prepoſſeſſed with another Love, and animated with hate and fury againſt him. Thoſe which are converſant with the Poets which are correct, will finde the advan<g ref="char:EOLhyphen"/>ces this Vertue makes in the af<g ref="char:EOLhyphen"/>fection of the moſt inflexible; and how by degrees Averſion gives place to Eſteem, and that by degrees throws down all that oppoſes the entrance of Love.</p>
+               <p>We are not to wonder at the effects of this marvelous quality, ſince it is accompanied with all
+<pb n="95" facs="tcp:52028:54" rendition="simple:additions"/>others, which make up an ex<g ref="char:EOLhyphen"/>traordinary Merit: for this Me<g ref="char:EOLhyphen"/>rit is acquired by Patience, by Prudence, by Fidelity, by Con<g ref="char:EOLhyphen"/>ſtancie, by Reſpect, by Diſcre<g ref="char:EOLhyphen"/>tion, by Perſeverance, and by a hundred other like Vertues; Ge<g ref="char:EOLhyphen"/>neroſity comprehends all in it: for he that is ſaid to be generous, is incluſively ſaid to be Patient, Prudent, Faithful, Conſtant, Reſpectuous, and Diſcreet, and in a word, all that one can figure of moſt perfect and of moſt ami<g ref="char:EOLhyphen"/>able: and it is ſo true that all other qualities are the inſepa<g ref="char:EOLhyphen"/>rable Companions of Generoſity, that they are recommended to all Lovers as infallible Maximes amongſt them, and by which they are aſſured to make themſelves beloved if they obſerve them in<g ref="char:EOLhyphen"/>violably.</p>
+               <p>Firſt, Patience is an inſepara<g ref="char:EOLhyphen"/>ble Vertue of all who are gene<g ref="char:EOLhyphen"/>rous.
+<pb n="96" facs="tcp:52028:55"/>Love never ceaſes to per<g ref="char:EOLhyphen"/>ſwade them, whom he will enrol under his Banner; for when he would teach them how they muſt love, and how they muſt con<g ref="char:EOLhyphen"/>quer, he tells 'em it is accom<g ref="char:EOLhyphen"/>pliſh'd by Care and Patience, and that none can arrive to the height of Felicity without much pain &amp; difficulty. Love is preceded by Labours and Torments; but thoſe Ills change at laſt into Delights and Pleaſures inconceivable.</p>
+               <lg>
+                  <l>He who is patient in a Love-purſuit,</l>
+                  <l>In time may hope to reap the pleaſing fruit.</l>
+                  <l>To ſuffer Torments, Rigors, and Diſdains,</l>
+                  <l>Raiſes the Merit of his Pains;</l>
+                  <l>And of his Loyalty and Love</l>
+                  <l>Aſſured Marks will prove:</l>
+                  <l>And how much more of torment he endures,</l>
+                  <l>His Glory he augments, and Love ſecures.</l>
+                  <l>His paſt Diſquiets will improve</l>
+                  <l>The Sweets and pleaſures of his Love.</l>
+               </lg>
+               <p>Conſtancy and Fidelity are
+<pb n="97" facs="tcp:52028:55"/>no leſs the Companions of Gene<g ref="char:EOLhyphen"/>roſity than of Patience; and are no leſs to be recommended to a Lover, than that rigid Vertue; and Love makes no leſs advantage of it in making its moſt Illuſtri<g ref="char:EOLhyphen"/>ous Conqueſts. If you fear the preference of a powerful Rival, and you deſpair of ſucceeding in your amorous Enterprize, and are ready to abandon your pur<g ref="char:EOLhyphen"/>ſuit; Love will re-animate your Hope, and let you ſee, that a con<g ref="char:EOLhyphen"/>ſtant and legitimate ardour is to be prefer'd before the ſplendor of a vain grandeur.</p>
+               <p>By the aid of theſe Illuſtrious Companions of Generoſity, Love finiſhes its moſt noble Conqueſts. But ſince the inconſtant and un<g ref="char:EOLhyphen"/>faithful are of a contrary opi<g ref="char:EOLhyphen"/>nion, it is neceſſary to make 'um ſee their errour, and to draw 'um out of it. They ſay, to maintain their falſe opinion, that
+<pb n="98" facs="tcp:52028:56"/>theſe Vertues of which I ſpeak, produce more Thorns than Ro<g ref="char:EOLhyphen"/>ſes, and many more ill Nights than good Daies to a Lover: but they are much deceived, and are ignorant of the Pleaſures two conſtant Lovers enjoy, even a<g ref="char:EOLhyphen"/>midſt all their pains; for all their amorous cares and inquietudes are intermixed with ſuch happy moments, that one of them is a ſufficient recompence for an age of trouble.</p>
+               <p>The profeſſed Inconſtants will not yield to theſe Reaſons, how convincing ſoever, but maintain that they alone are the moſt rea<g ref="char:EOLhyphen"/>ſonable Lovers: It is better, ſay they, to love perfectly in many places at a time. If one ſay to them, that this kinde of Love gives but little Honour to her he loves, becauſe there is none ſo little fair, who does not believe ſhe deſerves a Heart entire to her
+<pb n="99" facs="tcp:52028:56"/>ſelf: he will preſently reply, and ſo juſtifies himſelf, that Heaven having made as many different deſires as there are Beauties, ſheweth by that, it is its will he ſhould love all: and to perſwade you the better, and to bring you over to his party, he malitiouſly aggravates the pleaſures which this diſtribution of his Heart gives, and the diſquiett of thoſe who onely love one ſingle perſon: for he addes boldly, That he who may pleaſe many, and will love but one, is a great Enemy to his own good Fortune: Pleaſures are light, ſaith he, which are li<g ref="char:EOLhyphen"/>mited; but he receives a thou<g ref="char:EOLhyphen"/>ſand, who loves a thouſand Beau<g ref="char:EOLhyphen"/>ties. See, ſays he, the difference between theſe two kinde of Lo<g ref="char:EOLhyphen"/>vers, and weigh their manners in a juſt Balance; the Incon<g ref="char:EOLhyphen"/>ſtant hath a Spirit ſweet, civil, affable, and complaiſant; the Con<g ref="char:EOLhyphen"/>ſtant
+<pb n="100" facs="tcp:52028:57" rendition="simple:additions"/>is penſive, melancholy, and unquiet.</p>
+               <p>See the reaſons of theſe Incon<g ref="char:EOLhyphen"/>ſtants; but there is nothing in the World more ridiculous: For firſt, it is certain that we cannot divide Love without deſtroying it; and ſhe who doth not poſſeſs it entirely, poſſeſſes it not at all. To enumerate all the fatigues that theſe wandering Lovers endure, would much exceed the diſquiets that a conſtant Lover ſuffers in the purſuit of his Love, and is at laſt recompenced by imper<g ref="char:EOLhyphen"/>fect Joys, and a ſlight ſatisfaction, not equal to thoſe which a con<g ref="char:EOLhyphen"/>ſtant Lover enjoys, from the e<g ref="char:EOLhyphen"/>qual return of a true and faith<g ref="char:EOLhyphen"/>ful Paſſion, by a Lady in whom he findes all the perfections in the World to delight his Senſes, and perfections of Minde for the contemplation of his Soul. Were it true, that the poſſeſſion of
+<pb n="101" facs="tcp:52028:57" rendition="simple:additions"/>what we love doth neceſſarily extinguiſh the amorous Flame, they would have ſome reaſon: but this is a common miſtake; for our Affections, produced by theſe excellent qualities, can ne<g ref="char:EOLhyphen"/>ver be extinguiſhed: for neither Deformity nor Age can deprive them of their Beauty; but even when Time or Age hath eclipſed the beauty of the Body, theſe qualities ſhine out with the grea<g ref="char:EOLhyphen"/>ter luſtre, and more ſtrongly en<g ref="char:EOLhyphen"/>gage and captivate the Soul.</p>
+               <p>There are a ſort of faithleſs and inconſtant Gallants, who will needs maintain themſelves to be the moſt conſtant in the World: ſay they, We always love Beauty, and when that for<g ref="char:EOLhyphen"/>ſakes a Lady, to love her ſtill would be inconſtancy: but this merry excuſe will not paſs; for though Beauty fades ſo faſt, that it is compared to Roſes in the
+<pb n="102" facs="tcp:52028:58"/>Spring; yet if a Lover give his Heart by the conſent of his Rea<g ref="char:EOLhyphen"/>ſon, as he ought to do, there will remain that Wit and Vertue which will have ſufficient Charms to make her ever beloved, how little Beauty ſoever remains.</p>
+               <p>Who then can apprehend as dangerous, and as deſtructive to vertuous inclinations, a Paſſion ſo refin'd, which produces in the Soul of Man ſuch glorious effects! a Paſſion which thus ennobles the Minde, refines the Spirit, and ſpurs us on to the acqueſt of all theſe Illuſtrious qualities, and never ceaſes till it hath formed us perfectly ami<g ref="char:EOLhyphen"/>able. It is eaſie, from what I have ſaid, to ſee the difference betwixt this reaſonable Paſſion, and the Tranſports of Luſt and wilde Deſire, whoſe effects and conſequences are ſo fatal to them who are hurried on by its fury
+<pb n="103" facs="tcp:52028:58"/>to the moſt unlawful and Villa<g ref="char:EOLhyphen"/>nous Actions, of which nothing can reſiſt the Rage, and than which nothing more defiles the Soul.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Rules for a Gallant in the Con<g ref="char:EOLhyphen"/>duct of his Love.</head>
+               <p>AS Prudence is a neceſſary and univerſal Guide in all Enterprizes, ſo it is by that, that a reaſonable Lover is to commence his Amorous Voyage: for it is impoſſible to put out from the Coaſt, and to ſayl with full Sayls, without obſerving the Winds or the Compaſs, without the ha<g ref="char:EOLhyphen"/>zard of periſhing. And if it be objected, that ſince we love maugre our ſelves, our Acti<g ref="char:EOLhyphen"/>ons are conſequently out of her
+<pb n="104" facs="tcp:52028:59" rendition="simple:additions"/>government. I anſwer, That I onely ſpeak of that Love which is always ſubmitted to Reaſon, and not of that unruly Tranſ<g ref="char:EOLhyphen"/>port which dethrones it: in which ſence I maintain, that how Amorous ſoever we are, yet we continue free to regulate our Paſſions; and by conſequence, a Gallant may profitably make uſe of ſuch Rules, if he will, as I ſhall preſcribe. I ſay, a Gallant, becauſe thoſe Rules are different from what I ſhall preſcribe the more Beautiful Sex; for they have Rules apart: Modeſty in a Woman is required, Boldneſs in a Man. A Lady ſometimes acts prudently in counterfeiting Cold<g ref="char:EOLhyphen"/>neſs; but a Gallant ought always to teſtifie an Ardour and Impa<g ref="char:EOLhyphen"/>tience: and though he be Ice, he ought always to ſay, he burns; for an <hi>Hippolytus</hi> in Love, is in this Age very ridiculous.
+<pb n="105" facs="tcp:52028:59"/>
+               </p>
+               <p>The firſt thing then that a Gal<g ref="char:EOLhyphen"/>lant ought to know, that he may love as he ought, that is to ſay, to conduct himſelf in his Love with Prudence, is, to hold for an undoubted principle, That Love ought entirely to poſſeſs his Heart, and to chaſe all o<g ref="char:EOLhyphen"/>ther Paſſions from thence, to rule alone. I acknowledge that Love does not demand ſo great an Ardour at the firſt inſtant, how miraculous ſoe're the Beauty is which renders her ſelf Miſtriſs of his Heart; it exacts onely a ſimple motion of Love at the firſt view; but when a Lover hath made reflection upon the perfections of her Spirit and Soul, he ought to become an I<g ref="char:EOLhyphen"/>dolater, and to love in a man<g ref="char:EOLhyphen"/>ner extraordinary, eſteeming it his chief Glory to purſue what he loves: And which may invite us to love in this manner, is, that
+<pb n="106" facs="tcp:52028:60" rendition="simple:additions"/>in Love there is nothing which does not juſtifie the exceſs.</p>
+               <p>The ſecond thing which he is to learn, who will be inſtructed by my Precepts, is, That he ought to be ſo looſned from his own Sentiments, and ſo ſubmiſſive to thoſe of his Miſtriſs, that he al<g ref="char:EOLhyphen"/>ways believes that ſhe has Reaſon in all that ſhe does, and in all that ſhe deſires: And this Reſignati<g ref="char:EOLhyphen"/>on ought to go ſo far, as to make him deſpiſe the greateſt dangers, even Death it ſelf, in the ſervice of his Miſtriſs. And in that e<g ref="char:EOLhyphen"/>ſtate he muſt hold as a Principle aſſured, that there is nothing ſo glorious nor ſo ſweet to a Lover, as that Reſignation: for if it happen that he die in ſaving the life of her he loves, he finds this ſweet in Death, that ſhe wiſhes not to ſurvive him after ſo great a mark of his Love. One thing which ought to contribute the
+<pb n="107" facs="tcp:52028:60"/>moſt to comfort a Lover who dies in this manner, is, That if his Love be grounded upon great Reaſon, even at the begin<g ref="char:EOLhyphen"/>ning of it, he holds it to be the infallible Effect of it; for he knows, that if his Miſtriſs be in<g ref="char:EOLhyphen"/>flexible, he muſt die with deſire; and if ſhe be favourable, then he muſt die with joy: and ſo being reſolved to die either by the Ma<g ref="char:EOLhyphen"/>lady or by the Remedy, he dies content, when it is to ſave the life of his Miſtriſs.</p>
+               <p>There are ſome Lovers who go yet farther; they believe that Life is ſhameful, when they finde no occaſion to hazard it for the perſon they love.</p>
+               <p>It is not enough that a Soul of a Lover be full of Love, and that it raigns as Soveraign there, and to have that Reſignation to her, which I have mentioned; he muſt alſo believe that he ne<g ref="char:EOLhyphen"/>ver
+<pb n="108" facs="tcp:52028:61" rendition="simple:additions"/>loves enough, &amp; always wiſh that he may ſtill love more; and the reaſon of this is, there is no Lo<g ref="char:EOLhyphen"/>ver who does not diſcover from day to day ſome new perfections in his Miſtriſs, therefore there ought not to be one moment in which his Paſſion ought not to augment according to the increaſe of his knowledge; to which end a Lo<g ref="char:EOLhyphen"/>ver ought always to exaggerate to himſelf the Beauty of his Mi<g ref="char:EOLhyphen"/>ſtriſs, that it may entertain and augment his Paſſion.</p>
+               <p>With this Love I would alſo have joyned as much Reſpect; and when a Lover hath as much trembled by one, as burn'd by the other, let him, in her preſence, extol every Perfection: yet there are ſtrict Meaſures to be obſerved in this, eſpecially with Ladies of excellent Spirits. The Indiſcre<g ref="char:EOLhyphen"/>tions of ſome Gallants in this Matter, are very much to be pi<g ref="char:EOLhyphen"/>tied;
+<pb n="109" facs="tcp:52028:61"/>their Praiſes are ſo extra<g ref="char:EOLhyphen"/>vagant, that they looſe their ef<g ref="char:EOLhyphen"/>fect; and winning no belief from their Miſtriſs, make their Sinceri<g ref="char:EOLhyphen"/>ty and Wit ſuſpected. Praiſes are moſt pleaſing to all, when they are beſtowed by way of reflection; a Lady then atten<g ref="char:EOLhyphen"/>tively liſtens to 'em without Bluſhes, and wihtout being put to the pain to defend her ſelf. A Lover ought to ſeem to have ſo great an opinion and venera<g ref="char:EOLhyphen"/>tion of the modeſty of his Mi<g ref="char:EOLhyphen"/>ſtriſs, that he ſhould ſeem affraid to diſpleaſe her, even by juſt Praiſes. This is a ſilent Com<g ref="char:EOLhyphen"/>mendation, which produces an extraordinary Effect. There are ſome indiſcreet Gallants who are yet more unlucky, whoſe Praiſes turn to Affronts by miſplacing them.</p>
+               <p>When abſence ſeparates a Lover from his Miſtriſs, let him
+<pb n="110" facs="tcp:52028:62"/>teach every place the cauſe of his Grief and Inquietude, and let ſome prudent Confident betray him to his Miſtriſs, and let him not be wanting himſelf to make known the grandeur of his Love by that of his Sufferings, in theſe or ſuch-like words.</p>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Ask my <hi>Celinda</hi> how <hi>Almedor</hi> lives;</l>
+                  <l>When abſent from your eyes,</l>
+                  <l>No Joy nor Pleaſure he receives,</l>
+                  <l>But every minute dies.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Behold the Sun, whoſe Rays adorn</l>
+                  <l>Heaven with their glorious Light;</l>
+                  <l>When abſent, all the Earth doth mourn</l>
+                  <l>In Funeral-robes of Night.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Each pretty Flower doth hang its head,</l>
+                  <l>And drooping fades away:</l>
+                  <l>The Roſe it ſelf looks pale and dead:</l>
+                  <l>At the departure of the day.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="111" facs="tcp:52028:62"/>
+                  <head>4.</head>
+                  <l>Thus, my <hi>Celinda,</hi> when your eyes</l>
+                  <l>Conceal their amorous Fire,</l>
+                  <l>Doubts and Deſpairs in mydark Soul a<g ref="char:EOLhyphen"/>riſe,</l>
+                  <l>And poor <hi>Almedor</hi> ſtraight expires.</l>
+               </lg>
+               <p>And as a Lover ſhould eſteem nothing ſo precious as the pre<g ref="char:EOLhyphen"/>ſence of his Miſtriſe, becauſe the preſence of the Object beloved is his Sun, which diſſipates the ſor<g ref="char:EOLhyphen"/>row of his Life, and the fear of Death; therefore I would have him, when he goes to ſee her whom he loves, teſtifie to her his joy with all the variety of ex<g ref="char:EOLhyphen"/>preſſion that his fancy can furniſh him withal: and to the end that tha fair one may ſee upon his face, and by his words, that Joy which he boaſts in his Letters, and that ſhe may know by that Ex<g ref="char:EOLhyphen"/>ceſs the Power which ſhe has over his Senſes; let him expreſs it ſo well, that ſhe may be convinced
+<pb n="112" facs="tcp:52028:63"/>that he believes nothing can be added to the happineſs of him who loves an extraordinary per<g ref="char:EOLhyphen"/>ſon when he ſees her, and is well received: 'tis then he muſt con<g ref="char:EOLhyphen"/>tinue to pour upon her words which expreſs his Tranſport, and as in an extaſie ſhew the infinite Pleaſure he takes if he might always be ſo happy as to live in her preſence.</p>
+               <p>Theſe Rules without any other doubtleſs are ſufficient to con<g ref="char:EOLhyphen"/>duct a Lover to the happy Port where he would arrive, if he make uſe of them as he ought; and I dare aſſure him that they will never fail: for what Lady can refuſe her Heart to a Paſſion ſo ſubmiſſive and reſpectuous? and who can take it from him af<g ref="char:EOLhyphen"/>ter 'tis given? this without doubt is impoſſible, without he meets with that Monſter which he may encounter in his amorous
+<pb n="113" facs="tcp:52028:63"/>progreſs, and which a man always cannot overcome.</p>
+               <p>This Monſter is <hi>Jealouſie;</hi> for it is ſo cruel, that it quite ſtran<g ref="char:EOLhyphen"/>gles Love, even in its full ſtrength; and though it be its Father, it is a Serpent covered with Flowers, and a Dragon which always wakes: and though it hath a hundred Eyes which never cloſe, yet ſo it is, that its ſight is always deluded, the Sen<g ref="char:EOLhyphen"/>ſes are always troubled with falſe Objects, and it inceſſantly rends the Heart: In ſhort, it is an indiſcreet Counſellor, which hath nothing for its end but to deſtroy all the reaſonable Maximes and the Rules which I give; for in mocquery it impu<g ref="char:EOLhyphen"/>dently ſays to thoſe who hearken to it, that Diſcretion, Reſpect, Fear, and Submiſſion, are onely the teſtimonies of a moderate Love; and that the true marks
+<pb n="114" facs="tcp:52028:64"/>of a perfect Lover are Suſpitions, Choler, and Rage; and it is ſo ſkilful in its Malice, that it ſtrengthens its Councels with reaſons very juſt in appearance, that it is ſcarce poſſible to eſcape being ſeduced.</p>
+               <p>For it preſently tells you, that you never ſee a great Smoak, but it is a ſigne of a great Fire; &amp; there is no Tranſport which proceeds not from a great Love; and that Love reſembles a Fever, which as it hath its Coldneſſes, ſo it hath its Heats. See what this Mon<g ref="char:EOLhyphen"/>ſter ſuggeſts without ceaſe to a poor Lover; and by the little that he hears, he receives the peſti<g ref="char:EOLhyphen"/>lential vapour, and Jealouſie en<g ref="char:EOLhyphen"/>ters through his Eyes, and occu<g ref="char:EOLhyphen"/>pies his ſick fancy: Thence to the Heart it tranſmits its venome, diſturbs his Reaſon, alters his Spirit, and excites his Cho<g ref="char:EOLhyphen"/>ler.</p>
+               <pb n="115" facs="tcp:52028:64"/>
+               <p>And then you cannot imagine that this turbulent Paſſion is idle and without action in the Heart of a Lover; for when once it is kindled by that Monſter, it makes him reſent all the tortures of Fear and Suſpition, and de<g ref="char:EOLhyphen"/>prives his Senſes and his Soul of all repoſe; and throwing Ice in<g ref="char:EOLhyphen"/>to the midſt of Fire, it cauſes an antipathy, whereof the Combat makes life languiſh without end; troubling perpetually the Rea<g ref="char:EOLhyphen"/>ſon by the vain Phantomes which it continually forms, and expoſes Love to the fury of all its Ene<g ref="char:EOLhyphen"/>mies. It is this jealous Fear, without doubt, which is the greateſt Evil that a Lover can be ſenſibleof; it proceeds from the belief that another is belo<g ref="char:EOLhyphen"/>ved by her he loves.</p>
+               <p>Yet it is not altogether unjuſt to be a little jealous, and as if he was aſſured that he has all the
+<pb n="116" facs="tcp:52028:65"/>World for Rivals: When a Gal<g ref="char:EOLhyphen"/>lant loves perfectly, and a Mi<g ref="char:EOLhyphen"/>ſtriſs that hath much Wit ſuffers her ſelf to be adored of another, to augment his ſub<g ref="char:EOLhyphen"/>miſſion and his Love, he cannot but be a little jealous: but he muſt make an advantage of it; and for that reaſon, when he per<g ref="char:EOLhyphen"/>ceives himſelf the leaſt toucht with that diſtemper, he muſt not impriſon it in his Breaſt, for the more he conceals it within, it will at one time or other make the more violent eruption. But be<g ref="char:EOLhyphen"/>cauſe a declaration of it is very dangerous, and that it requires peculiar Rules, let a Lover fol<g ref="char:EOLhyphen"/>low theſe which I ſhall give him:</p>
+               <p>Firſt, let him ſhew a little Me<g ref="char:EOLhyphen"/>lancholy in his Eyes and Viſage; not too much, for fear to alarm her too much; but onely ſo much as may oblige her to preſs
+<pb n="117" facs="tcp:52028:65"/>him to give her a knowledge of the cauſe; and then feigning not to tell it her without regret, and out of obedience.</p>
+               <p>Let him declare it in ſuch a manner, that it may appear onely the effect of his Love, without touching the Vertue or Prudence of his Miſtriſs, mixing there<g ref="char:EOLhyphen"/>with the Purity and Conſtancy of his own Paſſion; and all this with an air full of ſubmiſſion, and moſt capable to move pity, flying all Eagerneſs and Re<g ref="char:EOLhyphen"/>proach.</p>
+               <p>This is the means to cure his Jealouſie: for it is impoſſible, how fierce ſoever a fair one is, but her Heart will become ten<g ref="char:EOLhyphen"/>der by ſuch great marks of Sor<g ref="char:EOLhyphen"/>row and Submiſſion, or refuſe to give ſatisfaction to one ſo worthy of her Love and of her Pity: But above all, let him take heed that he paſs not the bounds
+<pb n="118" facs="tcp:52028:66"/>which I have preſcribed; for if his Jealouſie be full of Tranſport and Fury, nothing will become more inſupportable than him; for this is an undoubted Princi<g ref="char:EOLhyphen"/>ple, that there is none Jealous in this manner, who is not loo<g ref="char:EOLhyphen"/>ked upon as a Scourge by the moſt reaſonable.</p>
+               <p>Let therefore a Lover take great heed of this Jealouſie, if he would love as he ought; and whatſoever he has, let him co<g ref="char:EOLhyphen"/>ver it, diſcard it, as the greateſt Enemy of his Glory and Re<g ref="char:EOLhyphen"/>poſe.</p>
+               <p>This is the way to avoid the moſt dangerous Rock in this Sea; for there is no perſon who doth not agree, that if jealous Suſpitions were baniſhed from Love, the leaſt happy would a<g ref="char:EOLhyphen"/>vow, that there is nothing ſo ſweet as its Empire. Follow then my Maximes, principally thoſe
+<pb n="119" facs="tcp:52028:66"/>which concern Jealouſie, if you embarque upon this amorous Sea, and would arrive at laſt at that happy Port.</p>
+               <p>But to return: it is accounted in the opinion of the moſt wiſe, that all things are moſt difficult in their Commencement; therefore there is the greateſt art to be uſed in the firſt declaration of Love. This is the chief work of a re<g ref="char:EOLhyphen"/>fined Spirit; he muſt ſpare the Modeſty of a Lady, and diſcover his Flame in obſcure terms. If the thing pleaſe her, her curious Spirit will permit him another day to explain himſelf better: and if a Lover once diſcover the leaſt hint of his Love, Love will repeat it a thouſand times.</p>
+               <p>But that this Curioſity might be better known to you, if you deſire to be permitted with the greater facility to expreſs your Love more clearly, you muſt firſt
+<pb n="120" facs="tcp:52028:67"/>diſguiſe your Love, and ſo con<g ref="char:EOLhyphen"/>ceal it a long time under the name of Reſpect and Complaiſance, and not to ſpeak of it too often; for this ſhocks and preſſes the Modeſty of a Lady too much, and obliges her to deprive you of thoſe opportunities which are ſo precious in Love.</p>
+               <p>It is thus that a Lover ought to entertain his Miſtriſs; yet he muſt as well know when it is fit to be ſilent, and above all to hide the ſecret of his Love. When he ſpeaks, let him praiſe the Sex, declare his own Fidelity, and ſhew that he pretends nothing. In ſum, his Converſation muſt be gallant, ſweet, and witty, which may make her wiſh every minute ſuch an Excellent perſon her Slave; and withal he muſt always be ſubmiſſive and diſcreet, that he may obtain what he pre<g ref="char:EOLhyphen"/>tends without pride, and ſee him<g ref="char:EOLhyphen"/>ſelf
+<pb n="121" facs="tcp:52028:67"/>beloved without ſpeaking of it; which is done by ren<g ref="char:EOLhyphen"/>dring her a thouſand continual Services, by regulating his a<g ref="char:EOLhyphen"/>ctions according to her humour, till by the ſweetneſs of a long acquaintance he hath inſenſibly ſurprized her Heart, which is done before ſhe is aware of the Stratagem prepared for her.</p>
+               <p>When a Lover has done all that I have directed, and yet his Miſtriſs does not declare her ſelf, becauſe of her too great modeſty, I permit him to ſigh before her; for a true Paſſion cannot be better expreſſed that by a ſigh, when it eſcapes from the bottom of the Heart; tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alone is capable to explain th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grandeur of Love; and it i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſometimes of more power an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eloquence than all the amorous expreſſions in the World.</p>
+               <p>Therefore when he has the
+<pb n="122" facs="tcp:52028:68"/>opportunity to entertain her a<g ref="char:EOLhyphen"/>lone, let him not be too profuſe of his talk, but let a few Sighs ſupply the vacancies of diſcourſe. But let him uſe much caution, leſt he be ſuſpected of artifice: let him ſeem fearful to let 'em eſcape, and ſometimes break 'em in their paſſage, ſhewing that it is ſome pain and violence to him to ſuppreſs them: This lan<g ref="char:EOLhyphen"/>guage is ſweet in Love, and the beſt Interpreter of an amorous de<g ref="char:EOLhyphen"/>ſire.</p>
+               <p>Thus you may ſee how a De<g ref="char:EOLhyphen"/>claration of Love is to be made at the beginning, to make ones<g ref="char:EOLhyphen"/>ſelf be loved of a Lady who founds her Paſſion upon Rea<g ref="char:EOLhyphen"/>ſon: For when a Lover acts in this manner, he renders himſelf ſo amiable, that the moſt fierce will ſuffer his preſence, and hear him with Complaiſance: She will always treat him more fa<g ref="char:EOLhyphen"/>vourably
+<pb n="123" facs="tcp:52028:68"/>than another. She is pleaſed to ſee him, and after be<g ref="char:EOLhyphen"/>lieving her ſelf to be beloved, by reaſon of his inflamed ſighs, ſhe findes her ſelf inſenſibly char<g ref="char:EOLhyphen"/>med; and this you will diſcern whether ſhe will or no: for whenever ſhe takes pleaſure to hear you ſigh, ſhe will finde it difficult to conſtrain her ſelf, but will ſigh too, maugre her reſi<g ref="char:EOLhyphen"/>ſtance: do not matter then what ſhe ſays to you. Theſe fierce and haughty fair ones ne<g ref="char:EOLhyphen"/>ver declare their Sentiments in theſe affairs: they always leave their Lovers to divine, and onely in their Eyes betray the ſecret motions of their Soul. When we have made this advance, we may declare our ſelves more free<g ref="char:EOLhyphen"/>ly, and teſtifie openly the gran<g ref="char:EOLhyphen"/>deur of our Love; but take heed that you demand not yet to be beloved, but onely the permiſ<g ref="char:EOLhyphen"/>ſion
+<pb n="124" facs="tcp:52028:69"/>to love, and to have leave to tell her ſo; which you may do in this or the like manner, after you have expreſſed the greatneſs of your Love:</p>
+               <q>Will you conſent, my dear <hi>Ce<g ref="char:EOLhyphen"/>linda,</hi> that I promiſe my deſires this charming priviledge, to make Vows to you of an eternal Love? I require not that you would be ſenſible of my Flame; nor do I expect that the gift of your Heart ſhould follow the offer of mine: No, no, charming <hi>Celinda,</hi> that is a glorious Rewards, of which no<g ref="char:EOLhyphen"/>thing can render me worthy; and though my Paſſion makes me deſire it, yet my own Imperfe<g ref="char:EOLhyphen"/>ction forbids me to hope it: Per<g ref="char:EOLhyphen"/>mit me onely to flatter my ſelf with this, That in daring to love, I may alſo dare to tell you ſo, and at your Feet daily pay you my re<g ref="char:EOLhyphen"/>ſpects and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you Vows of an
+<pb n="125" facs="tcp:52028:69"/>unchangeable Love, and by its ardour let you know, that it being pure and ſincere, it muſt always increaſe: That it is not the ef<g ref="char:EOLhyphen"/>fect of a blinde appetite, which is begot by Deſire, and nouriſhed by Hope; but that as it is formed by the moſt amiable Object in the World, over which no Time will prevail, ſo nothing but Death can rend it from my Heart.</q>
+               <p>It is by ſuch tender Sentiments as theſe, that you will force at laſt the moſt cruel Beauty to love you, and at laſt to avow her love to you: She will bluſh without doubt when ſhe firſt gives you this knowledge; but be not alarm'd at that, for it is not at her Love ſhe bluſhes, but at the confeſſion of it: and in the end, that you may not doubt it, when ſhe ſees that you obſerve her diſturbance, ſhe will ſay to you
+<pb n="126" facs="tcp:52028:70"/>obligingly: My Bluſhes proceed not from the Cauſe that you think, yet alas! I know not whether it be Confuſion or Love, I finde you too worthy to be loved, not to ſuſpect my ſelf; but my Spirit is too high, and I can ſuffer rather the fire in my Heart than in my Mouth, and <hi>Love</hi> ſhews to me more hard to name than think.</p>
+               <p>'Tis this that finiſhes the Uni<g ref="char:EOLhyphen"/>on of two ſouls who are born one for another, and which are linked together by theſe inviſi<g ref="char:EOLhyphen"/>ble Bonds, that they have no longer than one life, becauſe they have no longer but one Heart; and it is that ſweet Union which forms that amorous Circle, in which Lovers are eternally hap<g ref="char:EOLhyphen"/>py: For when a Lady teſtifies her love n the manner that I have ſuppoſed, a Lover becomes Raviſhed and Charmed, and
+<pb n="127" facs="tcp:52028:70"/>vows himſelf entirely to her and ſubmits himſelf to her with<g ref="char:EOLhyphen"/>out reſervation; and every mi<g ref="char:EOLhyphen"/>nute is enflamed more and more by theſe amorous Tranſports. It is in theſe mutual Endearments and Tenderneſſes, which two Lovers, which follow the Rules which I have eſtabliſhed, arrive at the Port, and there taſte eternal happineſs.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> Rules for the Conduct of a Lady in an affair of Love.</head>
+               <p>THere is no leſs care and circumſpection required in a Lady than in a Gallant, at the commencement of an <hi>Amour:</hi> For thoſe enflamed and languiſh<g ref="char:EOLhyphen"/>ing looks which appear often very paſſionate, yet they are not
+<pb n="128" facs="tcp:52028:71"/>always true; leſt therefore a Lady be ſeduced too ſoon by falſe appearances, it is neceſſary that they make this as a certain Maxime:</p>
+               <q>That the Faith of Lovers is a very ſlippery Pledge: That their Oaths are vain, and their Wit a Deceiver: And that their Paſ<g ref="char:EOLhyphen"/>ſions are generally more in their Mouths than in their Hearts.</q>
+               <p>This may teach them that they be not too eaſie of belief in thoſe things which they ſee, and hear ſaid; for they may ea<g ref="char:EOLhyphen"/>ſily miſtake a Flame which is onely feigned for a true, where<g ref="char:EOLhyphen"/>of theſe falſe Lovers will boaſt at their expence: yet I would not that they ſhould be too diſ<g ref="char:EOLhyphen"/>dainful, but that they might take thoſe Methods that might make themſelves the more to be va<g ref="char:EOLhyphen"/>lued,
+<pb n="129" facs="tcp:52028:71"/>that a Lover may better know the price of their Loves before it be obtained.</p>
+               <p>They ought not to ſhew at firſt either Contempt or Rigour; for that rather chaces away than gains a Lover. Nor ought they to yield their Hearts as ſoon as they are ſollicited; for that is rather the effect of a fooliſh pity, than of the merit of their Gallants; and he will not be apt to eſteem that much, which coſts him ſo little, and is acquired with ſo much eaſe.</p>
+               <p>it is thus that theſe fierce fair ones captivate Hearts by a noble Pride: for in deſpiſing Love at the firſt, they at laſt triumph with the greater Power; but, as I have already ſaid, they muſt not appear too diſdainful, for by that they totally loſe a Lover, who poſſibly will never be re<g ref="char:EOLhyphen"/>claimed. A Lady then muſt
+<pb n="130" facs="tcp:52028:72"/>not be too diſdainful, nor hold a Lover too long in her Chains: for Patience may forſake the <hi>Inamarato,</hi> eſpecially thoſe of the greateſt mindes and coura<g ref="char:EOLhyphen"/>ges.</p>
+               <p>No more muſt ſhe be too eaſie to confide too much in the appearances of a paſſionate Love, ſince thereby ſhe becomes liable to be deceived: But let a Lady act with ſo much prudence, that ſhe may gain the perfect know<g ref="char:EOLhyphen"/>ledge of her Lover's Heart be<g ref="char:EOLhyphen"/>fore ſhe truſt. But ſee what meaſures a Lady takes, who in<g ref="char:EOLhyphen"/>tends to engage her Lover, and to render the bleſſing more dear and deſirable.</p>
+               <p>When a Lover hath diſcover<g ref="char:EOLhyphen"/>ed his Paſſion, to the end to make him more ardently wiſh a Pleaſure which is onely great ac<g ref="char:EOLhyphen"/>cording to the Grandeur of his deſire, before ſhe ſuffers her ſelf
+<pb n="131" facs="tcp:52028:72"/>to be moved to pity, ſhe takes ſome time to make proof of his Conſtancie, and covers her cru<g ref="char:EOLhyphen"/>elty and injuſtice with the Vail of Honour, and of Chaſtity; and to render the happineſs more great after the pain, and to ap<g ref="char:EOLhyphen"/>pear more amiable, ſhe ſeems in<g ref="char:EOLhyphen"/>humane, and oft-times counter<g ref="char:EOLhyphen"/>feits an exceſſive Pride, the better to charm with her Careſſes: But as her moſt principal work in this Art is to pleaſe, ſhe makes her Eyes look ſweet when her Mouth is ſevere, and lets her Lo<g ref="char:EOLhyphen"/>ver ſee, in caſting upon him a dying look, that her fierceneſs combates, whilſt her Heart ren<g ref="char:EOLhyphen"/>ders up it ſelf.</p>
+               <p>It is thus that a Lady ought to behave her ſelf to her Lover, after ſhe hath tried his love by all the diſguiſes that ſhe can invent, to be more certain of the true eſtate of his Heart: But theſe
+<pb n="132" facs="tcp:52028:73"/>artifices and theſe rigours ought not to continue after ſhe has gained this knowledge, but ſhe ought to return love for love, when ſhe is once aſſured of the love and merit of her Servant; for 'tis this alone that finiſhes and eſtabliſhes the Conqueſt of her Lover, who will be apt to revolt when he finds his ſubjection too ſevere.</p>
+               <p>There are ſome Ladies who ſerve themſelves very ſucceſsful<g ref="char:EOLhyphen"/>ly of Choler in the engaging their Lovers Hearts; but in this it is requiſite that their Choler be feigned, and appear to be light: for there is nothing more dreadful, and full of Tranſport, than a Woman in fury.</p>
+               <p>I condemn not ſometimes ſome little Coldneſſes, which theſe fair ones make uſe of; for there are ſome who have ſuch a grace in this artificial Coldneſs, that
+<pb n="133" facs="tcp:52028:73"/>a Lover ſometimes chuſes rather to ſee himſelf diſdained by her, than to be careſſed by others. But to ſucceed in this, there is required a peculiar Talent, which is very difficult to obtain: for it is neceſſary that it be very natural, not onely to pleaſe, but not to repulſe. I would not have a Lady ſo prodigal of her advances, that ſhe ſhew her Eyes ſweet to all who make their ad<g ref="char:EOLhyphen"/>dreſſes, becauſe this is the quali<g ref="char:EOLhyphen"/>ty of a perfect Wanton: for the property of a Wanton is to make a great amaze of Sweetneſs, ob<g ref="char:EOLhyphen"/>liging Words, Careſſes, Cares, Tenderneſſes and falſe Regards, which promiſes all things to credulous Lovers, without gi<g ref="char:EOLhyphen"/>ving any thing in effect. See how one of theſe <hi>Coquets</hi> boaſts her ſelf, and how ſhe makes her own Picture.
+<pb n="134" facs="tcp:52028:74"/>
+               </p>
+               <q>As for me, <hi>ſays ſhe,</hi> I love eve<g ref="char:EOLhyphen"/>ry where, and without neglecting the leaſt Conqueſt, I ſtrive to engage all; all things contribute to my good Fortune; and amongſt a thouſand, I render one or other jealous: and though I have one Heart, I promiſe it to all, whilſt every one endeavours to pleaſe me, and each lives in hope: The abſence of any one afflicts me not; for a thouſand others that are preſent, take from me the thoughts of them who are abſent: I fear neither Death nor Change; there remains ſtill a Million of my admirers, either to comfort or re<g ref="char:EOLhyphen"/>venge me.</q>
+               <p>Theſe kinde of Women are ſo ridiculous and ſo vain, they make it their glory not to love in a<g ref="char:EOLhyphen"/>ny manner but this, which ought to render them the contempt of the whole World: See how ſhe
+<pb n="235" facs="tcp:52028:74"/>perſiſts to boaſt, as of a wonder<g ref="char:EOLhyphen"/>ful effect of her Wit!</p>
+               <q>Let them that will, make ac<g ref="char:EOLhyphen"/>count of Fidelity; I trouble not my ſelf with ſo vain a thing: for the example of others lets me know, that inſtead of a Ser<g ref="char:EOLhyphen"/>vant we accept a Maſter: when we onely ſuffer one, and think on no other, the entertainment of others gives us diſquiet, and we are bound to live after his Phan<g ref="char:EOLhyphen"/>taſie, endure his ill humours, and fear his jealouſie; and leſt that Time might extinguiſh his Flame, we muſt heap every day new fa<g ref="char:EOLhyphen"/>vours upon him, and forſooth when he is abſent, our Souls are grieved and dejected; his change kills us, and his death throws us into deſpair.</q>
+               <p>See the intolerable vanity of theſe fantaſtical Creatures, who
+<pb n="136" facs="tcp:52028:75"/>teach us to fly and deteſt them, leſt we fall into their ſnares, liv<g ref="char:EOLhyphen"/>ing in a manner ſo different from thoſe Ladies who ought to be eſteemed, and not too prodigal of their favours if they would preſerve their Lovers: For by being too prodigal in their fa<g ref="char:EOLhyphen"/>vours, they expoſe themſelves very oft to the contempt of an inſolent Victor; for a Lover who is flattered and puffed up with his Victory, ſoon loſes the memory of all hihs ſubmiſſi<g ref="char:EOLhyphen"/>ons.</p>
+               <p>If then a Miſtriſs would aug<g ref="char:EOLhyphen"/>ment the Paſſion of her Lover, let her ſometimes diſſemble a little Diſdain, and a little Rigour; for there is nothing ſo ſure, as that the deſire languiſhes by the facility of obtaining: But as I have ſaid, it behoves that theſe Coldneſſes and theſe Rigours be well tempered, and very ſhort;
+<pb n="137" facs="tcp:52028:75"/>and a Lady ought to make uſe of them with a great deal of ad<g ref="char:EOLhyphen"/>dreſs and judgement; for if they endure too long, a Lover may be repulſed in ſuch manner, that he will eſcape from them, and in his turn pay her in the ſame Coin. We need not to wonder at ſuch a change; for when a fair Lady is too rigorous or ingrate<g ref="char:EOLhyphen"/>ful, it is commendable to fly from her, and to hold it for a thing certain, that ſuch a love is a cha<g ref="char:EOLhyphen"/>ſtiſement of Heaven if it endure. A Miſtriſs therefore ought not to be too rigorous or too in<g ref="char:EOLhyphen"/>grateful, but onely ſometimes ſerious, and that more to her Lover than to others; for the civilities which ſhe may ſhew to a perſon indifferent to her, ſhould be accounted favours to a Lover when once he is declared ſo.</p>
+               <p>A Lady ought to diſtruſt all things, when ſhe intends to make
+<pb n="138" facs="tcp:52028:76"/>proof of her Lover; ſo that ſhe ought neither to ſpeak not write any thing which may too much flatter or incenſe him; and eſpe<g ref="char:EOLhyphen"/>cially ſhe ought not to return any anſwer to his Letters; for this would be to put Weapons into the hands of an unfaithful Lover when he has a minde to boaſt of her favours, and therefore pru<g ref="char:EOLhyphen"/>dence doth forbid it.</p>
+               <p>Thus you may ſee how a La<g ref="char:EOLhyphen"/>dy who would regulate her love by Reaſon, ought to act till ſhe has arrived to the perfect knowledge of her Lover's heart; which ſometimes is very eaſie to diſcover, either by his Eyes, which tell her what he dare not ſpeak; or by a ſigh, which eſcapes from a Heart too much oppreſt; and many other marks of the diſturbance of his Soul.</p>
+               <p>Yet a Lady ought not always to give a confidence to theſe
+<pb n="139" facs="tcp:52028:76" rendition="simple:additions"/>marks; for ſometimes Sighs and Oaths are not the proofs of Love, but are feigned and criminal; ſhe ought therefore to put a Lo<g ref="char:EOLhyphen"/>ver to all the proofs ſhe can in<g ref="char:EOLhyphen"/>vent; and if ſhe be not refuſed one, ſhe may conclude her ſelf beloved, and may ſafely love a<g ref="char:EOLhyphen"/>gain, ſince <hi>Love</hi> cannot be rewar<g ref="char:EOLhyphen"/>ded by any thing but <hi>Love.</hi>
+               </p>
+               <p>Yet ſhe ought to take care that her love does not offend againſt her duty or her glo<g ref="char:EOLhyphen"/>ry; but ſhe ought to reſolve to follow her duty maugre her Heart: for Duty ought always to be inexorable, where Vertue is the Miſtriſs; not but that when ſhe loves well, that Duty is a cruel and unjuſt conſtraint: for it cannot but be hard to be obedi<g ref="char:EOLhyphen"/>ent, where her love is reaſonable; ſhe muſt then ſacrifice her love where Duty ordains it, eſpecially wher ſhe is of Royal Blood: but
+<pb n="140" facs="tcp:52028:77"/>that ſhe may ſhew ſhe loves well, ſhe ought to do it with regret and to give all the marks ſhe can to her Lover, that ſhe is forced to abandon him by that cruel conſtraint, to juſtifie the injury ſhe does him by an order ſo cruel.</p>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>In vain my Love and Pity I confeſs,</l>
+                  <l>Since that Imperious Pride,</l>
+                  <l>Which doth on Crowns attend,</l>
+                  <l>Commands that Love ſhould be deni'd,</l>
+                  <l>And all to Glory bena.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>How huge a weight my greatneſs is;</l>
+                  <l>Which a falſe ſplender doth diſguiſe!</l>
+                  <l>It robs me of my ſweeteſt bliſs.</l>
+                  <l>Since I to it my Love muſt ſacrifice.</l>
+                  <l>Thus whilſt to Fortune I too much do owe,</l>
+                  <l>Nothing to Love or Pity I allow.</l>
+               </lg>
+               <pb n="141" facs="tcp:52028:77"/>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Hard fate! which doth decree</l>
+                  <l>My Crown to be a ſlavery:</l>
+                  <l>Nay how much happier is a Slave!</l>
+                  <l>Since in my Throne my joys do meet a grave,</l>
+                  <l>What ſerves it that a Crown I do poſſeſs,</l>
+                  <l>And all the power which doth on Scepters wait?</l>
+                  <l>My favours give to others happineſs,</l>
+                  <l>Whilſt nought but pain I to my ſelf create.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>I love! yet never muſt avow the ſame;</l>
+                  <l>For though <hi>Alcidor</hi>'s merit is above</l>
+                  <l>A King, and more attracts my love;</l>
+                  <l>Yet ſtill alas! alas! he wants the Name.</l>
+                  <l>This want doth all my puniſhments create,</l>
+                  <l>Such are the humorous orders of my fate,</l>
+                  <l>Which by a principle of Vertue too ſevere,</l>
+                  <l>Makes me unjuſt and rigorous appear.</l>
+               </lg>
+               <p>Yet think not that a true Lover that is, a Lover who is gene<g ref="char:EOLhyphen"/>rous, will be enraged at ſuch
+<pb n="142" facs="tcp:52028:78"/>Declaration, how cruel ſoever it may ſeem; or that he ſhould blame his Miſtriſs: for as he loves his glory better than him<g ref="char:EOLhyphen"/>ſelf, he will finde it eaſie and ſweet to die, to let her ſee he ſtill conſerves his Love. It is with theſe generous Sentiments that he ſubmits himſelf to theſe cruel orders, expreſſing himſelf to her who with this regret forſakes him to follow her Duty and her Glory, after this manner.</p>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>It is unjuſt I ſhould complain</l>
+                  <l>Of your more glorious fate.</l>
+                  <l>I will endure the pain,</l>
+                  <l>And be content to be unfortunate,</l>
+                  <l>Fate's juſt, ſince it a Crown to you doth give,</l>
+                  <l>Though I in Torments live;</l>
+                  <l>Enjoy the ſweets of Powes and of Fame;</l>
+                  <l>The price is ſmall,</l>
+                  <l>My death is all,</l>
+                  <l>And that is juſtly due to my preſump<g ref="char:EOLhyphen"/>tuous flame.</l>
+               </lg>
+               <pb n="143" facs="tcp:52028:78"/>
+               <lg n="1">
+                  <head>2.</head>
+                  <l>Moſt juſtly Fortune doth decree</l>
+                  <l>That you ſhould rule, and I ſhould die:</l>
+                  <l>I run, I run to Death, fair Queen,</l>
+                  <l>That you may reign</l>
+                  <l>Happy and glorious, whilſt I</l>
+                  <l>Will think it an extream Felicity</l>
+                  <l>Onely to ſay at laſt, <hi>For you I die.</hi>
+                  </l>
+               </lg>
+               <p>I know that a Lover well be<g ref="char:EOLhyphen"/>loved, may juſtly be diſſatisfied if ſhe forſake him to chuſe a<g ref="char:EOLhyphen"/>nother of equal merit to him<g ref="char:EOLhyphen"/>ſelf; but when ſhe prefers a man who is onely above him in Qua<g ref="char:EOLhyphen"/>lity, Eſtate, or Birth, that choice which he knows to be made with<g ref="char:EOLhyphen"/>out Love, or without Diſdain of him, he ought to be appeaſed; and an Heroick courage ought to pardon her for following that ambitious order of her duty; to comfort himſelf for it, and to deceive his grief in be<g ref="char:EOLhyphen"/>lieving that her Heart has not
+<pb n="144" facs="tcp:52028:79"/>followed her hand when ſhe gave it.</p>
+               <p>It is then requiſite for a La<g ref="char:EOLhyphen"/>dy who will love according to Reaſon, not to return love till ſhe knows her ſelf to be beloved; nor to love againſt her Duty, or againſt her Glory: but yet this is not enough, for ſhe muſt alſo avoid a thouſand little weakneſ<g ref="char:EOLhyphen"/>ſes, which may blemiſh the glo<g ref="char:EOLhyphen"/>ry of her love, and above all, Jealouſie; for there is nothing renders one of ſo tedious and diſ<g ref="char:EOLhyphen"/>agreeable a humour as Jealou<g ref="char:EOLhyphen"/>ſie, nor nothing which hinders her more from appearing amia<g ref="char:EOLhyphen"/>ble: For when a Soul is poſſeſ<g ref="char:EOLhyphen"/>ſed, the Fancy is troubled with a thouſand different motions of Love, Rage, Deſpite, Fear, and a million of other tumultuous Paſſions, and in that eſtate the Soul languiſhes miſerably, with<g ref="char:EOLhyphen"/>out knowing the grief which
+<pb n="145" facs="tcp:52028:79"/>wounds it. A Lady muſt then, as I have ſaid, never be Jealous, but always appear gay, and with a ſmiling countenance; for there is nothing ſo diſagreeable, as thoſe inequal humours, which are ſome<g ref="char:EOLhyphen"/>times gay and affable, and ſome<g ref="char:EOLhyphen"/>times ſad and froward; and they are ſo far from pleaſing, that there is not one Lover who can endure a Lady of this humour, and who will not in the end quit her with Reproaches. Shun then theſe inequal capricious humours, if you would conſerve your Con<g ref="char:EOLhyphen"/>queſts; and above all, be con<g ref="char:EOLhyphen"/>ſtant and faithful, that your Lovers may follow your ex<g ref="char:EOLhyphen"/>ample: for if you be light and unfaithful, your Lovers will be<g ref="char:EOLhyphen"/>come ſo alſo, though it be onely for honour-ſake, to be quit with you; but above all, have a care when years begin to diminiſh your attractions.
+<pb n="146" facs="tcp:52028:80"/>
+               </p>
+               <p>Let therefore your love en<g ref="char:EOLhyphen"/>dure as long as you live; and when you die, die faithful, be<g ref="char:EOLhyphen"/>cauſe, as I have ſaid in another place, <hi>That Love is onely the reward of Love;</hi> and a true Heart never wants Charms for another that is equally honeſt and true.</p>
+               <p>Behold the principal Maximes that Ladies, who deſire to govern themſelves prudently, ought to follow; and theſe are ſufficient, provided the beauty of their Spirits and of the Soul be as great as that of their Bodies.</p>
+               <p>In fine, if two perſons, ſuch as I have deſcribed, love truely, and follow my precepts, no Age or Deformity can ever make them unhappy by diminiſhing their mutual loves.</p>
+               <p>Thus I have ſhewn that Love may be ſubjected by Reaſon, how great ſoever its power is; and
+<pb n="147" facs="tcp:52028:80"/>that the moſt ſcrupulous Ver<g ref="char:EOLhyphen"/>tue may not onely be permitted to love, but to avow the ſame, if ſhe follow the Rules I have given, which teach how to maſter the <hi>Maſter of the World;</hi> and that there is nothing more ſweet, or more innocent than Love, which addes a ſweetneſs to all other Pleaſures, when 'tis guided by Reaſon; for other<g ref="char:EOLhyphen"/>wiſe, to Love, is to give up our ſelves to perpetual diſquiets, and to joyn to the moſt ſorrowful Days more tedious and unquiet Nights, and to baniſh for ever Repoſe and Joy.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="148" facs="tcp:52028:81"/>
+               <head>
+                  <hi>CHAP. VII.</hi> How to diſcover when a Miſtriſs returns us with Love.</head>
+               <p>AFter all, the great difficulty which remains, is how to diſcern whether the Love which is pretended be real, and whe<g ref="char:EOLhyphen"/>ther a true Paſſion be not re<g ref="char:EOLhyphen"/>payed onely by artifice. The u<g ref="char:EOLhyphen"/>ſual flattery of our ſelves, does commonly betray us into an eaſie belief that we are beloved. There are few Ladies, how ugly ſoe're they are, yet when they conſult their Glaſſes, do fancy ſome peculiar grace or other, ca<g ref="char:EOLhyphen"/>pable enough to conquer more than one ſingle heart: and few Gallants, who do not imagine ſomething extraordinary in their perſons and deportment worthy
+<pb n="149" facs="tcp:52028:81"/>of eſteem. This Self-opinion contributes ſo much to their be<g ref="char:EOLhyphen"/>ing deceived, that it is not onely in vain, but injurious for a man to perſwade his Friend with Ar<g ref="char:EOLhyphen"/>guments drawn from any imper<g ref="char:EOLhyphen"/>fection in himſelf, not to be too credulous in this Affair.</p>
+               <p>Firſt, we muſt obſerve well and attentively all the motions of her eyes; it is by them that we moſt uſually diſcover the ſtate of her Heart, how exquiſite ſoe're ſhe be in diſſimulation. Theſe ar<g ref="char:EOLhyphen"/>dent and indiſcreet Libertines cannot retain her ſecrets, and they cannot long diſſemble; for the more they ſtrive to conceal it, the more they make it ap<g ref="char:EOLhyphen"/>pear.</p>
+               <p>'Tis not very eaſie for a Lover to endure the brightneſs of the eyes of his Miſtriſs; for they uſually imprint ſo much fear, that the moſt bold cannot behold
+<pb n="150" facs="tcp:52028:82" rendition="simple:additions"/>them long without trembling: but maugre this reſpectuous fear, we muſt regard fixedly thoſe fair eyes, and hearken attentively to their Language, ſince it is by them chiefly that we can come to the knowledge of her Heart.</p>
+               <p>Obſerve then firſt, if her Looks be ſweet and languiſhing: for no<g ref="char:EOLhyphen"/>thing ſo much manifeſts the ſtate of a Heart, as the languiſhing of the Eyes.</p>
+               <p>Yet though this languiſhing does not appear, we muſt not preſently conclude that our Mi<g ref="char:EOLhyphen"/>ſtriſs has not Love in her heart; for ſometime the eye is grave, when the heart is ſenſible: though it is an undoubted Mark that the Heart is touched, when her Looks are ſweet and lan<g ref="char:EOLhyphen"/>guiſhing.</p>
+               <p>If then we do not obſerve it, we muſt not be repulſed by that, for there are a thouſand other
+<pb n="151" facs="tcp:52028:82"/>Marks which will make known the ſtate of the Heart.</p>
+               <p>We may conceive great hopes, when we find our Miſtriſs confu<g ref="char:EOLhyphen"/>ſed at our preſence, and to ſpeak in diſorder and unuſual conſtraint in her actions, proceeding from an endeavour to appear more agreeable in her converſation and behaviour. This amiable Conſtraint is very different from the ordinary Affectation of thoſe pert and impertinent <hi>Melantha's,</hi> which is ſo tedious and ridicu<g ref="char:EOLhyphen"/>lous; and it is very diſtinguiſh<g ref="char:EOLhyphen"/>able from that want of breeding and baſhful ſimplicity of young Country-Ladies: and indeed, that Love is very much to be ſuſpected, which does not pro<g ref="char:EOLhyphen"/>duce theſe kind of diſorders and confuſions.</p>
+               <p>From hence it is, that the very name of her we love, cauſes ſuch an emotion as doth eaſily diſco<g ref="char:EOLhyphen"/>ver
+<pb n="152" facs="tcp:52028:83"/>the Sentiments which we en<g ref="char:EOLhyphen"/>deavour induſtriouſly to con<g ref="char:EOLhyphen"/>ceal.</p>
+               <p>Love may work many of theſe effects, and yet not be abſolute<g ref="char:EOLhyphen"/>ly perfect or refin'd; therefore let us carefully examine whether Ambition or Avarice make not up part of its Compoſition: for if it have theſe ingredients, a Lover cannot promiſe himſelf to be longer happy than he is fortunate; for that love is one<g ref="char:EOLhyphen"/>ly nouriſhed by Plenty, and is blaſted by the frowns of For<g ref="char:EOLhyphen"/>tune: But he who loves truely and as he ought, ſacrifices his Ambition and Avarice to his bove.</p>
+               <lg>
+                  <l>For Love, a Lover doth all things forgo;</l>
+                  <l>None can adore his Gold and Miſtriſs too.</l>
+                  <l>He who himſelf doth to Love's Altar bring,</l>
+                  <l>Thinks all he has too cheap an Offering;</l>
+                  <pb n="153" facs="tcp:52028:83"/>
+                  <l>He doth his Gold and ſuch baſe thrift deſpiſe,</l>
+                  <l>Offering with that, his Blood a Sacrifice.</l>
+                  <l>He in whoſe Heart ſo noble a flame doth rule,</l>
+                  <l>His Miſtriſs to preſerve would loſs his Soul.</l>
+               </lg>
+               <p>If then we finde any remains of theſe two Paſſions, we may conclude that Love has not made an abſolute conqueſt; for where it reigns entirely, it ſweetens all conditions, and the worſt tra<g ref="char:EOLhyphen"/>verſes of Fortune are not able to leſſen it, but contribute to its growth: the conſtancy of each begets a mutual pity, which en<g ref="char:EOLhyphen"/>dears them one to the other, and ſtrengthens that Chain which links their Hearts and Fortunes together: So true is that part of the Song:</p>
+               <q>
+                  <l>He whoſe Love's true, and whoſe Paſſion is ſtrong,</l>
+                  <l>Shall never die wretched, but always be <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+               </q>
+               <pb n="154" facs="tcp:52028:84"/>
+               <p>Therefore when we ſee a Lo<g ref="char:EOLhyphen"/>ver whoſe cares are all employed for her he loves, and in all things to prefer his Miſtriſs's ſatisfaction and happineſs before his own, and with a diſ-intereſſed Zeal to offer his heart at Loves Altar; a Lady may ſafely accept his Love, and hope with Reaſon a true and durable Felicity.</p>
+               <p>The greateſt part of this fair Sex, and above all, thoſe fierce and haughty fair ones, are very ex<g ref="char:EOLhyphen"/>quiſite in diſguiſing of it; and it is not eaſie to diſcover their true Sentiments, how much ſoe're they are touched: but it is cer<g ref="char:EOLhyphen"/>tain, that the leſs they make it ap<g ref="char:EOLhyphen"/>pear, the more is Love in their Hearts, which at laſt breaks over all their conſtraint, and forces them to confeſs their. Defeat. Therefore let not a Gallant be diſcomfited after many Repulſes, and though after many Attacks
+<pb n="155" facs="tcp:52028:84"/>he finds no hopes of ſurrender.</p>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>What if thy <hi>Phillis</hi> ſeem ſevere,</l>
+                  <l>Do not deſpair.</l>
+                  <l>In the ſoft Language of thy eyes,</l>
+                  <l>Tell ber, for her thou dies;</l>
+                  <l>And for her Favours amarouſly preſs:</l>
+                  <l>Courage in Love bath always beſt ſucceſs.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Fear not; thy conſtant Flame</l>
+                  <l>Will in her Heart create the ſame:</l>
+                  <l>In all thy pain, Inquietude, and Care,</l>
+                  <l>
+                     <hi>Phillis</hi> at length will ſhare.</l>
+                  <l>And Whilſt of freedom ſhe doth boaſt,</l>
+                  <l>She finds her liberty is loſt.</l>
+                  <l>She'll ſeem thy Paſſiou to deſpiſe,</l>
+                  <l>When Love doth languiſh in her eyes.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nder a tranquil Face, and gentle Eyes,</l>
+                  <l>Loves ſecret fire may burn,</l>
+                  <l>And in as bright a Flame ariſe</l>
+                  <l>As under the ſad ooks of thoſe</l>
+                  <l>Whoſe mortal Paleneſs ſhows</l>
+                  <l>As if they were reviv'd juſt from an Vrn.</l>
+                  <pb n="156" facs="tcp:52028:85"/>
+                  <l>And though the Flame doth not ſo high aſ<g ref="char:EOLhyphen"/>cend,</l>
+                  <l>It may a heat more ardent lend.</l>
+                  <l>If then in <hi>Phillis</hi> Face thou ſpies</l>
+                  <l>This Coldneſs, and this Calmneſs in her Eyes,</l>
+                  <l>Believe her Face and Looks her Heart be<g ref="char:EOLhyphen"/>lyes.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>In vain thou doſt her Cruel call;</l>
+                  <l>And fooliſhly accuſe,</l>
+                  <l>In ſaying ſhe's inſenſible</l>
+                  <l>To all thy Amanous Vows.</l>
+                  <l>A Woman's Heart is well to Love diſ<g ref="char:EOLhyphen"/>poſed;</l>
+                  <l>And though her modeſt Lips are cloſed,</l>
+                  <l>Her Heart is ſoft, and tender is her Soul;</l>
+                  <l>Yet Fear and Shame</l>
+                  <l>May long conceal,</l>
+                  <l>And ſecret keep the Amarous Flame</l>
+                  <l>Which at the length her eyes reveal,</l>
+                  <l>When 'tis no longer ſubject to controul.</l>
+               </lg>
+               <p>Some Ladies are ſo jealous of the diſcovery of their Love, that they ſeldome ſpeak of the man they love, without railing againſt him, and cenſuring this or that in him; but this they do with ſo ill an Air, that it may be eaſily
+<pb n="157" facs="tcp:52028:85"/>diſcerned they take no delight in being compli'd with, or to have the company of the ſame opinion.</p>
+               <p>In many different ways doth this Paſſion make its Eruptions; but after all; the eyes are the firſt diſcoverers of it: and he that is well read in that Language, will quickly diſcern what Ad<g ref="char:EOLhyphen"/>vances he makes in his Miſtriſs's Heart.</p>
+               <p>To enumerate all the Symp<g ref="char:EOLhyphen"/>toms of it, I ſhould ſeem to ſpeak of it as <hi>Burton</hi> in his <hi>Me<g ref="char:EOLhyphen"/>lancholy,</hi> as a Sickneſs or Diſtem<g ref="char:EOLhyphen"/>per, a Feavour or a Calenture; not as that noble Fire which in<g ref="char:EOLhyphen"/>flames us to all brave and gene<g ref="char:EOLhyphen"/>rous Actions, and which lights us in the Paths of Glory and Vertue.</p>
+               <p>I ſhall leave a Lover to con<g ref="char:EOLhyphen"/>ſider well of the nature of Love, and of the enſuing Reflections; and then I preſume he will ſtand
+<pb n="158" facs="tcp:52028:86"/>in need but of very few more Inſtructions.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>CHAP. VIII.</hi> Important reflections upon Love, and the Conduct of Lovers.</head>
+               <p n="1">1. ALover muſt preſume upon himſelf, when he ſees a fair Lady, he muſt believe that all things are poſſible to him.</p>
+               <p n="2">2. The curioſity to ſee a fair La<g ref="char:EOLhyphen"/>dy, is one of the great commence<g ref="char:EOLhyphen"/>ments of Love; and the more ſtrong it is, by ſo much Love hath taken the deeper root.</p>
+               <p n="3">3. When we have a long time combated with Love, and that
+<pb n="159" facs="tcp:52028:86"/>it forces us to yield, we muſt not ſay to her we love, that we ſubmitted by Force, but by Choice.</p>
+               <p n="4">4. Sometimes we are afraid to be<g ref="char:EOLhyphen"/>come Amarous, &amp; do not perceive that we are more afraid of a Lady not to ſee her again; by this we may conclude that we love, maugre our ridiculous and un<g ref="char:EOLhyphen"/>profitable Fear.</p>
+               <p n="5">5. When we love a Lady too proud or fierce, and that we can<g ref="char:EOLhyphen"/>not enfranchiſe our ſelves, we endure a cruel torment: For we cannot live without ſeeing her; nor ſee her without ſighing for her; nor ſigh without telling her our love; nor declare it without deſerving death.</p>
+               <pb n="160" facs="tcp:52028:87"/>
+               <p n="6">6. How fierce ſoever a Lady is, when a Lover that ſhe eſteems hath once gained a little credit upon her Heart, ſhe begins to doubt if it be a crime to love.</p>
+               <p n="7">7. We believe always the laſt what we moſt fear; and a Soul accuſtomed to fly what wounds it, doth not believe it feels the ill when it preſſes it; and it is ſo inclin'd to flatter it ſelf, that even when it feels it, it endea<g ref="char:EOLhyphen"/>vours to doubt it.</p>
+               <p n="8">8. Love is an Impoſture which ſeduces the Spirit; and the ſame Heart which ſearches after it; fears it: it diſtributes Bleſſings onely drop by drop; but it ſhowres down Evils and Tears
+<pb n="161" facs="tcp:52028:87"/>in great Floods; but in the mean time it makes it ſelf adored e<g ref="char:EOLhyphen"/>very where.</p>
+               <p n="9">9. When Jealouſie has once taken poſſeſſion of a Heart, nothing can ſtay the Impetuous courſe of it: Innocence is criminal, the falſe appears true, and the true ſeems falſe; and by that, Love produces Hate.</p>
+               <p n="10">10. The right to be beloved, ſerves oſt-times as an Obſtacle againſt it; and Love is no more Love, when it becomes a Duty.</p>
+               <p n="11">11. The diſorder of a Lover in a Declaration of love, is a great Eloquence; and when a Lover expreſſes himſelf well, it is a ſign of little love.</p>
+               <pb n="162" facs="tcp:52028:88"/>
+               <p n="12">12. Diſtance of ſeparation makes the pain of abſence different; if it be not great, we are leſs ſen<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e of regrets, becauſe when a little ſpace onely divides us from the Object loved, the Heart fails not to poſt thither without the Eyes.</p>
+               <p n="13">13. It is neceſſary that we our ſelves love, to know the effects of Love in another; and a Lady cannot know the torment of her Lover, if ſhe become not a Lover as well as a Miſtriſs.</p>
+               <p n="14">14. We muſt never declare our love by the means of a Friend; for to expreſs our Paſſion well, the party muſt be ſenſible of love himſelf.</p>
+               <pb n="163" facs="tcp:52028:88"/>
+               <p n="15">15. It is hard to prove that we love much, when the Heart doth not agree with our Words.</p>
+               <p n="16">16. Love and Fortune ſeldom make one and the ſame man happy; and whoſoever is careſ<g ref="char:EOLhyphen"/>ſed by one, ought to fear the other.</p>
+               <p n="17">17. When a Lady is of Royal Blood, ſhe ought not to hearken to a Lover unworthy of her blood, what ills ſoever ſhe reſents from that hard conſtraint.</p>
+               <p n="18">18. Love and Majeſty accords but ill; for what one follows, the other flies. Love cannot ſuffer noiſe nor Witneſſes; when it is
+<pb n="164" facs="tcp:52028:89"/>upon a Throne, it is in conſtraint; the higher it ſees it ſelf, the more it fears; and ſince it is a Childe, too great ſplendor doth affright it.</p>
+               <p n="19">19. Jealouſie ſometimes proves a remedy for Love, by the great Torments which it creates.</p>
+               <p n="20">20. When one is ſo little jealous, that he diſcerns not that he is ſo, he keeps no guard upon him<g ref="char:EOLhyphen"/>ſelf, but permits it unawares to appear in many of his actions; but when he is jealous to that height that he perceives it, a wiſe Lover doth all he can to conceal it, and to lock up his Jealouſie within himſelf, till he become Maſter of it: But oft<g ref="char:EOLhyphen"/>times there is mixt ſo much fierceneſs in that feigned indiffe<g ref="char:EOLhyphen"/>rence
+<pb n="165" facs="tcp:52028:89"/>wherewith he hides this Paſſion, that it is eaſily diſcerna<g ref="char:EOLhyphen"/>ble that it proceeds from a jea<g ref="char:EOLhyphen"/>lous deſpite, by which means he betrays himſelf.</p>
+               <p n="21">21. A jealous Lover cannot hear either good or ill of his Miſtriſs, without equal diſpleaſure; ſo ca<g ref="char:EOLhyphen"/>pricious is Love.</p>
+               <p n="22">22. All the little devoirs which a Lover pays to his Miſtriſs, ſpeak for him; mingled ſighs, and a glance of the Eye, and a thou<g ref="char:EOLhyphen"/>ſand other little amarous actions expoſe the Souls of two Lovers, to each other.</p>
+               <p n="23">23. To be ſilent in the beginning of an Amour, is in effect to ſpeak much.</p>
+               <pb n="166" facs="tcp:52028:90"/>
+               <p n="24">24. When Love is ſtrong, and is forbid to ſpeak, it acts, ſpeaks, and ſhews it ſelf through the eyes.</p>
+               <p n="25">25. He who can weep in Love, when he ought to weep, is Ma<g ref="char:EOLhyphen"/>ſter of a Heart.</p>
+               <p n="26">26. When we are diſpoſed to be<g ref="char:EOLhyphen"/>gin an Amour, we muſt make our Addreſſes to one of the moſt fair and moſt witty; and if we pleaſe ſuch a one, all others will eſteem us the more. And this is the means to gain an hundred Mi<g ref="char:EOLhyphen"/>ſtriſſes, and to ſerve but one.</p>
+               <p n="27">27. When a Lover is very paſſio<g ref="char:EOLhyphen"/>nate, far from murmuring at his
+<pb n="167" facs="tcp:52028:90"/>Sufferings, he wiſhes that he had more than one Heart, that he might ſuffer more: for a true Lover feels no Torments; or if he do, he ſeems in love with them.</p>
+               <p n="28">28. A Heart which knows how to love truly, creates it ſelf a thou<g ref="char:EOLhyphen"/>ſand Pleaſures from indifferent things; even its Grief is pleaſing to it.</p>
+               <p n="29">29. There is no Crime that a true Lover does not pardon; and there is not any who loves truly, who had not rather ſuffer the puniſhment the Crime of his Mi<g ref="char:EOLhyphen"/>ſtriſs deſerves, than to ſee her ex<g ref="char:EOLhyphen"/>poſed to it.</p>
+               <p n="30">30. The leaſt Repentance always finds pardon from a Lover.</p>
+               <pb n="168" facs="tcp:52028:91"/>
+               <p n="31">31. Amongſt Lovers there are a thouſand little different things, which render the one Content, and the other Unquiet; Jealou<g ref="char:EOLhyphen"/>ſies, Diſpleaſures, ſhort Deſpites, ſudden Repentances, ſweet Re<g ref="char:EOLhyphen"/>membrances, and pleaſing Inter<g ref="char:EOLhyphen"/>views, in ſecret places.</p>
+               <p n="32">32. When two Lovers make a fi<g ref="char:EOLhyphen"/>nal Breach, if the Lady has re<g ref="char:EOLhyphen"/>ceived any Preſents, ſhe ought not to keep them; nor ought her Lover to demand them again.</p>
+               <p n="33">33. There is much prudence to be us'd by a Gallant in the Preſents he makes to his Miſtriſs, other<g ref="char:EOLhyphen"/>wiſe he will looſe more than pro<g ref="char:EOLhyphen"/>fit by them: a profuſe Gift obli<g ref="char:EOLhyphen"/>ges not, but the grace and manner
+<pb n="169" facs="tcp:52028:91"/>of giving is preferr'd before the Preſent, as to looſe ſomething at Play to diſguiſe the Preſent; but a liberal Fool ſeems to give an Alms when he makes rich Pre<g ref="char:EOLhyphen"/>ſents, and gives ſo out of ſeaſon that it diſpleaſes.</p>
+               <p n="34">34. The words <hi>I love,</hi> offer too much violence to the modeſty of a Lady: a Lover muſt find terms more ſweet to avow his Love.</p>
+               <p n="35">35. A fine Raillery hath great ſuc<g ref="char:EOLhyphen"/>ceſs in their Converſation: when the Converſation languiſhes, a little Raillery pleaſes the moſt ſerious; it diſſipates Melancholy, and brings joy into the Heart and Face. Every one hearkens with pleaſure to Witty things ſpoke to the purpoſe, and which are ſaid without premeditation; but
+<pb n="170" facs="tcp:52028:92" rendition="simple:additions"/>we muſt fly Buffonrie and Slan<g ref="char:EOLhyphen"/>dering: the Phraſe muſt have no<g ref="char:EOLhyphen"/>thing low nor inſolent; it muſt be expreſs'd with a gallant and agreeable Air, and much Mode<g ref="char:EOLhyphen"/>ſty and Civility in all our Acti<g ref="char:EOLhyphen"/>ons.</p>
+               <p n="36">36. When a crafty Miſtriſs ſees her Lover about to forſake her, ſhe recals him by flattering lan<g ref="char:EOLhyphen"/>guage, and ſtudied Cajolleries: She appeaſes the greateſt Fury, and rekindles the extinguiſhing Flame. By an amorous Glance, and by counterfeit Smiles, all this is eaſie to her; and Love and her Lover: and as after War we better taſte the ſweets of Peace, ſo a re-conquered Lover loves better than ever.</p>
+               <pb n="171" facs="tcp:52028:92"/>
+               <p n="37">37. One cannot be in love, but one time or other there will hap<g ref="char:EOLhyphen"/>pen ſome little Angers betwixt two Lovers, and that is moſt com<g ref="char:EOLhyphen"/>monly for things of a trivial na<g ref="char:EOLhyphen"/>ture: If any Grief ariſe from it, it is a Crime to conceal it, nay, even it is ſweet to complain: After an earneſt and amarous Conteſt, the Lovers laugh, and agree, and with pleaſure at laſt fee that neither of 'em are inju<g ref="char:EOLhyphen"/>red.</p>
+               <p n="38">38. At the beginning when a Lady is touched by Love, though ſhe will quickly know it, ſhe dare not name it; and her Heart, which is ſenſible of the fire, will ſuffer it, but not confeſs it: It feigns to be ignorant of its Malady, for fear of being obliged to apply a reme<g ref="char:EOLhyphen"/>dy;
+<pb n="172" facs="tcp:52028:93" rendition="simple:additions"/>it makes a ſecret of the name of its Conquerour, for fear it ſhould alarm her modeſty and ſhame.</p>
+               <p n="39">39. That fooliſh Paſſion muſt be ſhun'd; which blemiſhes our Glo<g ref="char:EOLhyphen"/>ry: not that we ought to have a Hea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t as hard as a Rock, and im<g ref="char:EOLhyphen"/>penetrable to Love; but it ought to be hardned by Vertue when Love is contrary to it.</p>
+               <p n="40">40. There is nothing ſo eaſie, as to know the ſecret of a Lover; his regards are always indiſcreet; he cannot feel a great Fire in his Heart, without giving ſome out<g ref="char:EOLhyphen"/>ward marks of it; and even that conſtraint and endeavour to conceal his ſighs, is oftentimes that which makes it divined what is in his Heart: We take
+<pb n="173" facs="tcp:52028:93"/>no notice of an ordinary ſigh; but when one ſeems afraid to ſigh, and ſtrives to ſuppreſs them, it is eaſily gueſſed, that this cau<g ref="char:EOLhyphen"/>tion conceals Love.</p>
+               <p n="41">41. When a Lover deſires to con<g ref="char:EOLhyphen"/>ceal that he loves, his Tongue muſt be ignorant of his deſires, leſt it betray him: his Heart muſt not give any confidence to his Eyes or Sighs; all his Vows muſt be mute, and all his love locked up in his Heart.</p>
+               <p n="42">42. When a Lady is betrayed by her Lover, ſhe weeps when ſhe diſputes about taking revenge; ſhe ſees that if her ingrateful Lover periſh, ſhe muſt periſh too: Thus Hate, Love, Rage, and Tenderneſs, ſucceſſively tri<g ref="char:EOLhyphen"/>umph in her Soul; ſhe findes
+<pb n="174" facs="tcp:52028:94"/>her ſelf both a Lover and an Ene<g ref="char:EOLhyphen"/>my at the ſame time; when her deſpite increaſes, her Paſſion au<g ref="char:EOLhyphen"/>gments: and though her Lover hath betrayed her, yet he ap<g ref="char:EOLhyphen"/>pears ſtill amiable; and in this diſtraction ſhe can neither love nor hate.</p>
+               <p n="43">43. The deſigne of being reven<g ref="char:EOLhyphen"/>ged upon a Lover that hath be<g ref="char:EOLhyphen"/>trayed us, ſerves as a Vertue, though it be criminal; for Love and Anger will combate each other, and we may hope they will deſtroy each other.</p>
+               <p n="44">44. When we remain in ſilence in the preſence of her we love, <hi>Love</hi> ſpeaks for us; but the miſ<g ref="char:EOLhyphen"/>fortune is, all Ladies do not underſtand the language of <hi>Love.</hi>
+               </p>
+               <pb n="175" facs="tcp:52028:94"/>
+               <p n="45">45. When a Lover loves without being beloved again, he ſuffers alone; but when he is beloved, the Ills and Bleſſings are divided betwixt them.</p>
+               <p n="46">46. A Lady is injurious to her Lover, if ſhe believe he hath all he deſires when he ceaſes to complain; for when ſhe hears him ſigh, ſhe ought to be aſſured he ſtill wants ſomething.</p>
+               <p n="47">47. When our Miſtriſs commands us to do any thing, nothing ſhould hinder us from giving a blinde obedience. <hi>Love</hi> is above all; and when it ſpeaks, we muſt not hear any other.</p>
+               <pb n="176" facs="tcp:52028:95" rendition="simple:additions"/>
+               <p n="48">48. When a fair Lady accepts the Vows of her Lover, the happineſs that he taſtes is ſo exceſſive, that he doubts whether ſhe ſpeak ſin<g ref="char:EOLhyphen"/>cerely or not; ſo much his Rea<g ref="char:EOLhyphen"/>ſon doth oppoſe his Belief, and ſurprized with ſo much felicity, he doubts whether he be awake or no; and his Raviſhment takes from him the liberty to expreſs his Joy, and to return his thanks to his Miſtriſs.</p>
+               <p n="49">49. When a Lover apprehends the infidelity of his Miſtriſs, his Con<g ref="char:EOLhyphen"/>ſtancy almoſt forſakes him; and the moſt great Heart is oppreſſed with ſuch great diſpleaſures, that the moſt reſolute Vertue loſes all its power; and when he loves perfectly, Death would trouble him leſs than ſuch a ſur<g ref="char:EOLhyphen"/>prize.</p>
+               <pb n="177" facs="tcp:52028:95" rendition="simple:additions"/>
+               <p n="50">50. The Fair ſuffer great regrets when they have paſs'd their youth without loving, and when they love upon their declining: for 'tis then out of ſeaſon; and Love will not fail to revenge himſelf ſoon or late, and then laughs at them.</p>
+               <p n="51">51. An old man cannot love with<g ref="char:EOLhyphen"/>out being ſcoft at; for certainly a wrinkled Forehead mingles but a very lamentable Charm with fine ſayings.</p>
+               <p n="52">52. To live without loving, is not to live at all; and we onely can ſay we live, whilſt we love: the Sun ſets and riſes every day, the Spring-time renews every year; but the deſtiny of the Fair is very cruel: when their fair Eyes do once
+<pb n="178" facs="tcp:52028:96"/>loſe their luſtre, and are cloſed by death, they will be eternall ſo.</p>
+               <p n="53">53. When one loves a fair Lady who hath forſaken another, though the diſgrace of the other pleaſes a new Lover, yet he hath reaſon to be diſquieted at it; and how firmly eſtabliſht ſo e're he be in the heart of that Miſtriſs, yet he ought to fear his good for<g ref="char:EOLhyphen"/>tune, when that Miſtriſs is fickle and vain; and be afraid that he may loſe what he has gained, as well as the other.</p>
+               <p n="54">54. A Lover who ſees himſelf be<g ref="char:EOLhyphen"/>trayed by hsi Miſtriſs, cannot bet<g ref="char:EOLhyphen"/>ter revenge himſelf than in ma<g ref="char:EOLhyphen"/>king his Love yield to his Reaſon.</p>
+               <p n="55">55. A Lover ought not to kill his
+<pb n="179" facs="tcp:52028:96"/>Rival, to revenge himſelf of an unfaithful Miſtriſs; for the plea<g ref="char:EOLhyphen"/>ſure he receives from his Ven<g ref="char:EOLhyphen"/>geance, affords but falſe Sweets, which are accompanied with bit<g ref="char:EOLhyphen"/>terneſs: the death of a Rival, the Tears of an ingrateful Woman, have ſomething in them which at preſent flatters him; but when he at the ſame time ſees himſelf more hated than he was before, he findes his Soul tortured by an eternal regret of his Crime, and wounded moſt by his own ven<g ref="char:EOLhyphen"/>geance.</p>
+               <p n="56">56. A fair Lady loves not but with repugnance, becauſe ſhe believes every one ought to pay her homage</p>
+               <p n="57">57. When deſpite proceeds from a great love, we ſay we hate, but yet we love.</p>
+               <pb n="180" facs="tcp:52028:97" rendition="simple:additions"/>
+               <p n="58">58. A Lady who doth not appear angy when ſhe hath reaſon to be ſo, is more to be feared than one who makes a great noiſe.</p>
+               <p n="59">59. When we quit a Miſtriſs for a<g ref="char:EOLhyphen"/>nother, and yet the firſt continues her love to us, we become very miſerable: for we cannot chuſe but have a great compaſſion for her, and regret for our own in<g ref="char:EOLhyphen"/>gratitude.</p>
+               <p n="60">60. To judge well of the Heart of a Lady, we muſt ſee her rarely in publick: for if ſhe make her love very much appear, it is known of all the World; if ſhe conceal it, we believe ſhe has no love at all: and thus we ſhall never be ſatisfied.</p>
+               <pb facs="tcp:52028:97"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
